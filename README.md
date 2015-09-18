@@ -1,7 +1,6 @@
 # Recommendit
 Recommendation service for reddit.com communities
 
-[REMOTE SERVER](http://kilgallin.com/)
 ## Files Structure 
 
 	Recommendit Folder 	
@@ -40,3 +39,4 @@ Recommendation service for reddit.com communities
 - Require: sqlite3, BeautifulSoup, uillib2
 
 *Copyright 2015, Jonathan D.Kilgallin & Suphanut Jamonnak, All rights reserved. { jdk72, sj70 @zips.uakron.edu }*
+[REMOTE SERVER](http://kilgallin.com/)
