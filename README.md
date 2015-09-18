@@ -22,7 +22,7 @@ Recommendation service for reddit.com communities
 	- $python 03_TransactionBuilder.py
 
 2. Data Preprocessing (out:recommendation result)
-	- $python 04_Recommendit.py -s [SUPPORT] -c [CONFIDENCE]
+	- $python 04_Recommendit.py
 	- $python 05_PRAW_Recommend.py
 
 3. Knowledge Discovery (out:precision value)
