@@ -5,15 +5,21 @@ Recommendation service for reddit.com communities
 ## Files Structure 
 
 	Recommendit Folder 	
-		|- 01_RedditlistCrawler.py :
-		|- 02_QueryTopPost.py :
-		|- 03_TransactionBuilder.py :
-		|- 04_Recommendit.py :
-		|- 05_PRAW_Recommend.py :
-		|- 06_PrecisionCalculator.py :
-			|- Apriori-Master - Apriori Library (mit-license)
-			|- Resources - output folder
-			|- Paper - Recommendit Paper & References 
+		|- 01_RedditlistCrawler.py
+		|- 02_QueryTopPost.py
+		|- 03_TransactionBuilder.py
+		|- 04_Recommendit.py
+		|- 05_PRAW_Recommend.py
+		|- 06_PrecisionCalculator.py
+		|- Apriori-Master - Apriori Library (mit-license)
+			|- apriori.py
+			|- ...
+		|- Resources - output folder
+			|- itemset_transaction.csv  
+			|- subreddit_list.txt
+			|- ...
+		|- Paper - Recommendit Paper & References 
+			|- ...
 
 ## How to Run
 1. Data Collection and Transformation (out:data)
