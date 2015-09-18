@@ -33,4 +33,4 @@ Recommendation service for reddit.com communities
 - Python Version 2.7.10 (Not compatible with Python3.0+)
 - Require: sqlite3, BeautifulSoup, uillib2
 
-* Copyright 2015, Jonathan D.Kilgallin & Suphanut Jamonnak, All rights reserved. { jdk72, sj70 @zips.uakron.edu } *
+*Copyright 2015, Jonathan D.Kilgallin & Suphanut Jamonnak, All rights reserved. { jdk72, sj70 @zips.uakron.edu }*
