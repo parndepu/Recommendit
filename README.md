@@ -1,13 +1,20 @@
 # Recommendit
 Recommendation service for reddit.com communities
 REMOTE SERVER: http://kilgallin.com/
-> Files Structure
-Recommendit Folder
+## Files Structure 
+
+Recommendit Folder 
+
 	|- 01_RedditlistCrawler.py :
+
 	|- 02_QueryTopPost.py :
+
 	|- 03_TransactionBuilder.py :
+
 	|- 04_Recommendit.py :
+
 	|- 05_PRAW_Recommend.py :
+
 	|- 06_PrecisionCalculator.py :
 		|- Apriori-Master - Apriori Library (mit-license)
 		|- Resources - output folder
