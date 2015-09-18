@@ -1,7 +1,7 @@
 # Recommendit
 Recommendation service for reddit.com communities
 REMOTE SERVER: http://kilgallin.com/
-# Files Structure
+> Files Structure
 Recommendit Folder
 	|- 01_RedditlistCrawler.py :
 	|- 02_QueryTopPost.py :
