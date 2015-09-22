@@ -36,7 +36,7 @@ Recommendation service for reddit.com communities
 ## System Requirements
 - MAC OS X, Windows, Ubuntu
 - Python Version 2.7.10 (Not compatible with Python3.0+)
-- Require: sqlite3, BeautifulSoup, uillib2
+- Require: sqlite3, BeautifulSoup, urllib2
 
 *Copyright 2015, Jonathan D.Kilgallin & Suphanut Jamonnak, All rights reserved. { jdk72, sj70 @zips.uakron.edu }*
 [REMOTE SERVER](http://kilgallin.com/)
