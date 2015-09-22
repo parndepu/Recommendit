@@ -1,9 +1,7 @@
 """
 Description     : Simple Python implementation of the Apriori Algorithm
-
 Usage:
     $python apriori.py -f DATASET.csv -s minSupport  -c minConfidence
-
     $python apriori.py -f DATASET.csv -s 0.15 -c 0.6
 """
 
@@ -12,15 +10,6 @@ import sys
 from itertools import chain, combinations
 from collections import defaultdict
 from optparse import OptionParser
-
-def add_Recommendation(itemset,recommendation_set,seen_recommendation):
-    """ FOR RECOMMENDIT ENGINE """
-    if len(itemset) >= 2:
-        for subreddit in itemset:
-            if subreddit not in seen_recommendation:
-                recommendation_set.append(subreddit)
-                seen_recommendation.add(subreddit)
-    return recommendation_set
 
 
 def subsets(arr):
@@ -123,24 +112,13 @@ def runApriori(data_iter, minSupport, minConfidence):
 
 
 def printResults(items, rules):
-    """prints the generated itemsets and the confidence rules"""
-    for item, support in items:
+    """prints the generated itemsets sorted by support and the confidence rules sorted by confidence"""
+    for item, support in sorted(items, key=lambda (item, support): support):
         print "item: %s , %.3f" % (str(item), support)
     print "\n------------------------ RULES:"
-    for rule, confidence in rules:
+    for rule, confidence in sorted(rules, key=lambda (rule, confidence): confidence):
         pre, post = rule
         print "Rule: %s ==> %s , %.3f" % (str(pre), str(post), confidence)
-    """
-    prints the generated itemsets and the confidence rules
-    recommendation_set = []
-    seen_recommendation = set()
-    for item, support in items:
-        add_Recommendation(item,recommendation_set,seen_recommendation)
-        #print "item: %s , %.3f" % (str(item), support)
-    #print "\n------------------------ RULES:"
-    for rule, confidence in rules:
-        pre, post = rule
-    return recommendation_set"""
 
 
 def dataFromFile(fname):
