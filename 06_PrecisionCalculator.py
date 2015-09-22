@@ -20,6 +20,7 @@ recommendit_recommendation_file = './Resources/Recommendit_Results/Recommendit_r
 precision_result_file = './Resources/Precision_Results/precision_result.txt'
 
 def get_recommendit_recommendation(subreddit):
+	""" Get recommendit recommendation results """"
 	# TODO: edit recommendit data
 	recommendit_list = list()
 	with open(recommendit_recommendation_file) as recommenditFile:
@@ -39,7 +40,7 @@ def get_recommendit_recommendation(subreddit):
 				print e
 
 def get_praw_recommendation(subreddit):
-	
+	""" get praw recommendation results """
 	praw_list = list()
 	with open(praw_recommendation_file) as prawFile:
 		for item in prawFile:
@@ -59,8 +60,7 @@ def get_praw_recommendation(subreddit):
 				print e
 
 def subreddit_found(subreddit):
-	""" Query subreddit and Create a Temp file """
-
+	""" Finding input subreddit in the list """
 	with open(subredditlist_file) as file:
 		for i in file:
 			# CASE SENSITIVE: space+"\n"
@@ -70,12 +70,14 @@ def subreddit_found(subreddit):
 		return False
 
 def intersection(recommendit, praw):
+	""" count shared subreddits """
 	intersection_rec = set(recommendit).intersection(praw)
 	#print 'intersection set: '+str(intersection_rec)
 	print 'intersection = '+str(len(intersection_rec))+' subreddit'
 	return len(intersection_rec)
 
 def minimum_len(recommendit, praw):
+	""" calculate minimum length of recommendation results """
 	return min(len(recommendit), len(praw))
 
 if __name__ == "__main__":
@@ -92,14 +94,15 @@ if __name__ == "__main__":
 		print "Force to exit ..."
 		sys.exit()
 
-	""" RECOMMENDIT recommendation table """
+	""" create comparision table """
 
 	comparision_table = PrettyTable()
 	comparision_table.padding_width = 1
 
 	recommendit_l = list()
 	praw_l = list()
-
+	
+	# init.
 	rec_item = 0
 	praw_item = 0
 
@@ -123,6 +126,7 @@ if __name__ == "__main__":
 	comparision_table.add_column("RECOMMENDIT",recommendit_l)
 	comparision_table.add_column("PRAW",praw_l)
 	
+	# out: comparision table
 	print comparision_table
 	print '------------------------------------------------'
 
