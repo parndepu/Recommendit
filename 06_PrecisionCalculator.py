@@ -148,13 +148,11 @@ if __name__ == "__main__":
 						precision = intersection(recommendit_recomended, praw_recommended) / minimum_len(recommendit_recomended, praw_recommended)
 						
 						precision_value = round(precision*100,2)
-						precision_result = pattern + " = " + str(precision_value)+"%"
-
+						precision_result = pattern + "," + str(precision_value)+"%"
 						# write precision value with more than 60.0%
-						if precision_value > 60:
-							with open(precision_result_file, "a") as precision_file:
-								precision_file.write("{}\n".format(precision_result))
-								print precision_result
+						with open(precision_result_file, "a") as precision_file:
+							precision_file.write("{}\n".format(precision_result))
+							print precision_result
 					else:
 						# TODO: check case here!
 						precision_result = pattern + " = " + "0.0%"
