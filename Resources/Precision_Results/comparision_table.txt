@@ -1,0 +1,2072 @@
+Subreddit: /r/malelivingspace
+Recommendit: 'AmateurRoomPorn'
+PRAW: 'GetSuave', 'FrugalMaleFashionCDN', 'Wellworn', 'Frat', 'ScandinavianInterior'
+
+Subreddit: /r/vaping101
+Recommendit: 'Vaping'
+PRAW: 'cloudmaker'
+
+Subreddit: /r/low_poly
+Recommendit: 'Unity3D', 'Cinema4D', 'PixelArt', 'blender'
+PRAW: 'ZBrush'
+
+Subreddit: /r/djs
+Recommendit: 'electronicmusic', 'trance', 'Techno', 'House', 'edmproduction', 'aves', 'DnB'
+PRAW: 'DJsCirclejerk'
+
+Subreddit: /r/natalieportman
+Recommendit: 'Amber_Heard', 'Celebs', 'jennettemccurdy', 'chloegracemoretz', 'kaleycuoco', 'BellaThorne', 'girls_smiling', 'starlets', 'mileycyrus', 'JenniferLawrence', 'victoriajustice', 'PrettyGirls', 'sexygirls', 'EmmaStone', 'HaileeSteinfeld', 'kateupton', 'AshleyGreene', 'Models', 'AshleyBenson', 'CelebGfys', 'haydenpanettiere', 'OldSchoolCool', 'oliviawilde', 'AubreyPlaza', 'NatalieDormer', 'PrettyOlderWomen', 'EmiliaClarke', 'celebritylegs', 'ElleFanning', 'BarbaraPalvin', 'TaylorSwift', 'EmmaWatson', 'LaurenCohan', 'SarahHyland', 'ScarlettJohansson', 'Mila_Kunis', 'SexyWomanOfTheDay', 'kendalljenner', 'sophieturner', 'AlisonBrie', 'NinaDobrev', 'SelenaGomez', 'MichelleTrachtenberg', 'TaylorSwiftPictures', 'Kristen_Stewart', 'gentlemanbonersgifs', 'katyperry', 'MirandaKerr', 'FreckledGirls', 'christinahendricks', 'gentlemanboners', 'spam', 'zooeydeschanel', 'evangelinelilly', 'annakendrick', 'blakelively', 'alexandradaddario'
+PRAW: 'avrillavigne'
+
+Subreddit: /r/flightsim
+Recommendit: 'hoggit', 'aviation', 'trucksim', 'flying'
+PRAW: 'ATC'
+
+Subreddit: /r/lolcats
+Recommendit: 'catpictures'
+PRAW: 'Feels'
+
+Subreddit: /r/cirkeltrek
+Recommendit: 'ShitAmericansSay', 'thenetherlands', 'kreiswichs', 'ik_ihe'
+PRAW: 'YUROP'
+
+Subreddit: /r/celebsmx
+Recommendit: 'SelenaGomez', 'Nicki_Minaj', 'CelebGfys', 'mexico', 'AnythingGoesPics', 'kendalljenner', 'Celebs', 'BellaThorne', 'AsianCuties', 'EmmaWatson', 'SFWRedheads', 'CaraDelevingne', 'happygirls', 'LatinaCuties', 'indiangirls', 'YanetGarcia', 'Hot_Women_Gifs', 'PrettyGirls', 'goddesses', 'geekygirls', 'sexygirls', 'arielwinter', 'FitAndNatural', 'starlets', 'SkinnyWithAbs', 'celebritylegs', 'jordynjones', 'GirlsPlayingSports', 'SexyWomanOfTheDay'
+PRAW: 'CelebsBR'
+
+Subreddit: /r/uwaterloo
+Recommendit: 'ontario'
+PRAW: 'waterloo', 'kitchener', 'uwo', 'Guelph', 'UofT', 'UBC', 'ryerson', 'saskatoon', 'Hamilton', 'mississauga'
+
+Subreddit: /r/humanism
+Recommendit: 'education', 'religion', 'labor', 'Liberal', 'progressive', 'skeptic', 'psychology', 'environment', 'atheismrebooted', 'racism', 'evolution', 'atheism', 'atheistvids', 'Freethought', 'TrueAtheism', 'democrats', 'climate', 'socialism'
+PRAW: 'moraldilemmas'
+
+Subreddit: /r/chiptunes
+Recommendit: 'gamemusic'
+PRAW: 'Tetris'
+
+Subreddit: /r/shittyprogramming
+Recommendit: 'badcode', 'softwaregore', 'ProgrammerHumor'
+PRAW: 'programmerreactions'
+
+Subreddit: /r/classicrock
+Recommendit: '80smusic', 'progrockmusic', 'OldSchoolCoolMusic', '90sHipHop', 'pinkfloyd', 'humor', 'blues', 'indie_rock', '90sAlternative', 'rush', 'GuiltyPleasureMusic'
+PRAW: 'Alternativerock'
+
+Subreddit: /r/picturegame
+Recommendit: 'MapPorn'
+PRAW: 'DesktopDetective', 'firstimpressions', 'puzzles', 'Solving_A858'
+
+Subreddit: /r/volkswagen
+Recommendit: 'GolfGTI', 'Stance'
+PRAW: 'tdi'
+
+Subreddit: /r/rust
+Recommendit: 'cpp', 'ReverseEngineering', 'linux_gaming', 'coding', 'firefox', 'Clojure', 'crypto', 'emacs', 'Python', 'netsec', 'badcode', 'javascript', 'golang', 'programming', 'compsci', 'java', 'haskell'
+PRAW: 'haskellgamedev'
+
+Subreddit: /r/neverwinter
+Recommendit: 'MMORPG'
+PRAW: 'Trove', 'aion', 'dawngate', 'crowfall'
+
+Subreddit: /r/rush
+Recommendit: 'progrockmusic'
+PRAW: 'Dreamtheater', 'Opeth', 'deftones', 'TheFence'
+
+Subreddit: /r/oculus
+Recommendit: 'virtualreality', 'GearVR', 'Vive'
+PRAW: 'janusVR'
+
+Subreddit: /r/usefulwebsites
+Recommendit: 'InternetIsBeautiful'
+PRAW: 'usefulvids', 'atmidnight', 'coolguides', 'CasualTodayILearned', 'knowyourshit', 'HeresAFunFact', 'HelloInternet'
+
+Subreddit: /r/pinkfloyd
+Recommendit: 'beatles'
+PRAW: 'led_zeppelin', 'queen', 'ledzeppelin', 'ACDC', 'Opeth', 'Dreamtheater', 'ironmaiden', 'ween', 'prettylights', 'DMB'
+
+Subreddit: /r/lectures
+Recommendit: 'Economics', 'philosophy', 'Physics', 'socialism', 'worldpolitics', 'compsci', 'EndlessWar', 'collapse', 'humor', 'math', 'education', 'Foodforthought', 'wikipedia', 'TrueReddit', 'Anarchism', 'Anticonsumption', 'skeptic', 'Documentaries'
+PRAW: 'ted'
+
+Subreddit: /r/wigglebutts
+Recommendit: 'AustralianShepherd'
+PRAW: 'stbernards', 'bernesemountaindogs', 'Happydogs', 'vizsla', 'Boxers', 'weimaraner', 'BullTerrier', 'DobermanPinscher', 'mutt', 'Pomeranians'
+
+Subreddit: /r/dungeonsanddragons
+Recommendit: 'DnD', 'dndnext'
+PRAW: 'ImperialAssaultTMG'
+
+Subreddit: /r/honda
+Recommendit: 'S2000', 'UserCars', 'Autos', 'Toyota', 'Nissan', 'Stance'
+PRAW: 'volt'
+
+Subreddit: /r/motorcitykitties
+Recommendit: 'DetroitRedWings', 'MichiganWolverines', 'Detroit', 'baseball', 'detroitlions', 'Michigan'
+PRAW: 'letsgofish'
+
+Subreddit: /r/diablo3
+Recommendit: 'Diablo'
+PRAW: 'Diablo3Barbarians', 'Diablo3witchdoctors', 'd3hardcore', 'Diablo3DemonHunters', 'Diablo3Wizards', 'diablo2'
+
+Subreddit: /r/angievaronalegal
+Recommendit: 'EmmaWatson', 'AshleyBenson', 'SarahHyland', 'Anna_Faith', 'kaleycuoco', 'starlets', 'victoriajustice', 'alexandradaddario', 'christinahendricks', 'kateupton', 'NinaDobrev', 'PrettyGirls', 'JessicaNigri', 'YovannaVentura', 'gentlemanboners', 'FreckledGirls', 'arielwinter', 'oliviawilde'
+PRAW: 'AngieVarona'
+
+Subreddit: /r/mylittleandysonic1
+Recommendit: 'TumblrCirclejerk', 'mylittlepony', 'MLPLounge', 'ploungeafterdark', 'im14andthisisfunny'
+PRAW: 'BerryTubeLounge'
+
+Subreddit: /r/aquariums
+Recommendit: 'PlantedTank', 'bettafish', 'ReefTank'
+PRAW: 'Equestrian'
+
+Subreddit: /r/dyinglight
+Recommendit: 'GrandTheftAutoV'
+PRAW: 'FarCry4', 'Wolfenstein', 'The_Crew', 'EvolveGame', 'shadowofmordor', 'watch_dogs', 'thedivision', 'TheForest', 'Driveclub', 'farcry'
+
+Subreddit: /r/architecture
+Recommendit: 'ArchitecturePorn'
+PRAW: 'realtors', 'Infrastructurist', 'ScandinavianInterior'
+
+Subreddit: /r/hair
+Recommendit: 'FancyFollicles'
+PRAW: 'Morninghair', 'femalehairadvice', 'acne', 'lookoftheday', 'Makeup', 'NaturalBeauty', 'beauty', 'curlyhair', 'Dreadlocks', 'FierceFlow'
+
+Subreddit: /r/asiancuties
+Recommendit: 'victoriajustice', 'SelenaGomez', 'happygirls', 'HighHeels', 'Hot_Women_Gifs', 'PrettyGirls', 'realasians', 'kpics', 'sexygirls', 'ArianaGrande', 'girls_smiling', 'nextdoorasians', 'FreckledGirls', 'hardbodies', 'SkinnyWithAbs', 'cosplaygirls'
+PRAW: 'phi_tran'
+
+Subreddit: /r/buffy
+Recommendit: 'firefly'
+PRAW: 'ANGEL', 'veronicamars', 'TheAmazingRace'
+
+Subreddit: /r/solotravel
+Recommendit: 'travel'
+PRAW: 'Travel_HD', 'AmeriCorps'
+
+Subreddit: /r/resumes
+Recommendit: 'GetEmployed', 'jobs'
+PRAW: 'Resume'
+
+Subreddit: /r/standup
+Recommendit: 'standupshots', 'StandUpComedy', 'comedy'
+PRAW: 'BillBurr'
+
+Subreddit: /r/civcraft
+Recommendit: 'CivilizatonExperiment', 'Anarcho_Capitalism'
+PRAW: 'CivAeon'
+
+Subreddit: /r/catgifs
+Recommendit: 'Damnthatsinteresting', 'pics', 'creepy', 'NatureGifs', 'Whatcouldgowrong', 'WTF', 'nonononoyes', 'AnimalsBeingDerps', 'oddlysatisfying', 'interestingasfuck', 'funny', 'gifs', 'awesome', 'educationalgifs', 'BeAmazed', 'combinedgifs', 'Blep', 'holdmybeer', 'aww', 'nononono', 'PerfectTiming', 'Unexpected', 'chemicalreactiongifs', 'reactiongifs', 'AnimalsBeingBros', 'AnimalsBeingJerks', 'instant_regret', 'boop', 'woahdude', 'CatsInSinks', 'CatsStandingUp', 'StartledCats', 'cats', 'Eyebleach'
+PRAW: 'Feels'
+
+Subreddit: /r/h3h3productions
+Recommendit: 'FilthyFrank'
+PRAW: 'DeepIntoYouTube', 'TumblrInAction', 'cringe', 'cringepics'
+
+Subreddit: /r/libertarian
+Recommendit: 'privacy', 'occupywallstreet', 'randpaul', 'business', 'Conservative', 'Anarcho_Capitalism', 'Economics', 'worldpolitics', 'politics', 'libertarianmeme', 'progun', 'Shitstatistssay', 'WikiLeaks', 'restorethefourth', 'conspiracy', 'DescentIntoTyranny', 'Republican', 'gunpolitics', 'Bad_Cop_No_Donut'
+PRAW: 'The_Donald'
+
+Subreddit: /r/animalcrossing
+Recommendit: 'ACTrade'
+PRAW: 'AdoptMyVillager', 'RateMyMayor', 'ZeroEscape', 'storyofseasons', 'fireemblemcasual'
+
+Subreddit: /r/shittynosleep
+Recommendit: '2spooky4me'
+PRAW: 'lifeofnorman', '3spooky5me', 'Vinesauce'
+
+Subreddit: /r/tonightsdinner
+Recommendit: 'slowcooking', 'FoodPorn', 'eatsandwiches', '52weeksofcooking'
+PRAW: 'beerandpizza'
+
+Subreddit: /r/lapfoxtrax
+Recommendit: 'furry'
+PRAW: 'dragons'
+
+Subreddit: /r/photoshopbattles
+Recommendit: 'woahdude'
+PRAW: 'DinosaurDrawings', 'oldbabies', 'CrowdPulledOnStage', 'fakealbumcovers', 'mildlyvagina', 'onewordeach', 'battleshops', 'vexillologycirclejerk', 'TraditionalCurses', 'itslenny'
+
+Subreddit: /r/tennis
+Recommendit: 'sports'
+PRAW: 'Handball', 'snooker', 'Curling', 'Darts', 'volleyball', 'Bowling', 'ProGolf', 'tabletennis', 'billiards', 'rollerderby'
+
+Subreddit: /r/whiterights
+Recommendit: 'DarkEnlightenment', 'whitebeauty', 'progun', 'TheRedPill', 'conspiracy', 'european', 'PussyPass', 'snowden', 'Bad_Cop_No_Donut', 'collapse', 'AnythingGoesNews', 'worldpolitics', 'Republican', 'IslamUnveiled', 'sjwhate', 'MensRights', '911truth', 'new_right'
+PRAW: 'troubledteens'
+
+Subreddit: /r/sfw_wtf
+Recommendit: 'ChildrenFallingOver', 'ANormalDayInRussia', 'wowthissubexists', 'lol', 'shittyrobots'
+PRAW: 'wtfdidijustread'
+
+Subreddit: /r/michigan
+Recommendit: 'grandrapids', 'detroitlions', 'Detroit', 'MichiganWolverines', 'msu', 'motorcitykitties'
+PRAW: 'granturismo'
+
+Subreddit: /r/monkslookingatbeer
+Recommendit: 'educationalgifs'
+PRAW: 'InvisibleBicycles', 'bertstrips', 'michaelbaygifs', 'trippinthroughtime', 'shittyrobots', 'HybridAnimals', 'IgnorantImgur'
+
+Subreddit: /r/alienblue
+Recommendit: 'iphone'
+PRAW: 'ipadmusic', 'VintageApple', 'iOSthemes', 'apolloapp', 'appletv', 'hackintosh'
+
+Subreddit: /r/austin
+Recommendit: 'texas'
+PRAW: 'savannah'
+
+Subreddit: /r/steam
+Recommendit: 'pcgaming'
+PRAW: 'SteamArtworkProfiles', 'CSeventVODs', 'DatGuyLirik', 'TestOutfit', 'northernlion', 'WFTO', 'FORTnITE', 'simplerockets', 'csworkshop', 'localmultiplayergames'
+
+Subreddit: /r/airforce
+Recommendit: 'Military'
+PRAW: 'nationalguard', 'ROTC', 'navy', 'newtothenavy', 'USMC', 'USMCboot', 'army', 'flightrising', 'F35Lightning'
+
+Subreddit: /r/toontown
+Recommendit: 'fivenightsatfreddys', 'roblox'
+PRAW: 'Minecraft'
+
+Subreddit: /r/reddwarf
+Recommendit: 'BritishTV'
+PRAW: 'MST3K', 'farscape', 'LV426', 'JurassicPark'
+
+Subreddit: /r/oneliners
+Recommendit: 'AntiJokes'
+PRAW: 'badjokes', 'GoldReplies', 'fresh_funny', 'omegle', 'faceswap', 'mfw', 'FML', 'craigslist', 'pickuplines', 'engrish'
+
+Subreddit: /r/fixedgearbicycle
+Recommendit: 'Bikeporn', 'cyclocross', 'bicycling', 'bikewrench'
+PRAW: 'bikemessengers'
+
+Subreddit: /r/sixers
+Recommendit: 'Flyers', 'phillies', 'philadelphia', 'eagles', 'lakers', 'nba'
+PRAW: 'UtahJazz'
+
+Subreddit: /r/physics
+Recommendit: 'biology', 'AskPhysics', 'science', 'Astronomy', 'math', 'psychology'
+PRAW: 'modusoperandi'
+
+Subreddit: /r/castiron
+Recommendit: 'grilling'
+PRAW: 'tacos', 'Cakes', 'Masterchef'
+
+Subreddit: /r/gameofthrones
+Recommendit: 'asoiaf'
+PRAW: 'GameofThronesRP', 'Dreadfort', 'hodor', 'AgameofthronesLCG', 'ZNation', 'nightlyshow', 'Eragon', 'battlebots', 'Blackjesus', 'theleague'
+
+Subreddit: /r/teslore
+Recommendit: 'TrueSTL', 'skyrim', 'skyrimmods', 'Morrowind', 'oblivion', 'ElderScrolls'
+PRAW: 'skywind'
+
+Subreddit: /r/water
+Recommendit: 'solar', 'WikiLeaks', 'oregon', 'business', 'education', 'worldnews', 'uspolitics', 'nature', 'Anthropology', 'economy', 'TrueReddit', 'Twitter', 'California', 'psychology', 'democrats', 'racism', 'privacy', 'climate', 'Health', 'evolution', 'progressive', 'florida', 'geology', 'religion', 'labor', 'RenewableEnergy', 'GunsAreCool', 'Marijuana', 'homestead', 'EverythingScience', 'literature', 'energy', 'AnimalRights', 'cogsci', 'lectures', 'law', 'feminisms', 'Liberal', 'environment', 'politics', 'geography', 'snowden', 'Anticonsumption', 'news', 'women', 'Physics', 'Economics', 'China', 'Foodforthought', 'Archaeology'
+PRAW: 'climateskeptics'
+
+Subreddit: /r/games
+Recommendit: 'gamernews'
+PRAW: 'TestOutfit', 'northernlion', 'WFTO', 'simplerockets', 'localmultiplayergames', 'BoomBeach', 'DeadOrAlive', 'Internet_Box', 'TerraBattle', 'BeamNG'
+
+Subreddit: /r/companyofheroes
+Recommendit: 'redorchestra', 'totalwar', 'wargame', 'HeroesandGenerals', 'Warthunder'
+PRAW: 'bloodlinechampions'
+
+Subreddit: /r/gamesale
+Recommendit: 'gameswap'
+PRAW: 'GameTrade', 'NearlyFreebies', 'LaptopDeals'
+
+Subreddit: /r/diwhy
+Recommendit: 'techsupportmacgyver'
+PRAW: 'thereifixedit', 'shittydiy', 'amibeingdetained', 'humblebrag', 'redneckengineering', 'nailedit', 'Scrollsaw', 'palletfurniture', 'yesyesyesno', 'NewAgain'
+
+Subreddit: /r/whatcarshouldibuy
+Recommendit: 'askcarsales'
+PRAW: 'kia', 'regularcarreviews'
+
+Subreddit: /r/saab
+Recommendit: 'Volvo'
+PRAW: 'FiestaST'
+
+Subreddit: /r/healthyfood
+Recommendit: 'Health'
+PRAW: 'Celiac'
+
+Subreddit: /r/imaginarymonsters
+Recommendit: 'armoredwomen', 'SpecArt', 'ImaginaryWitches', 'ImaginaryLeviathans', 'ImaginaryLandscapes', 'Cyberpunk', 'ImaginaryCharacters', 'ImaginaryBehemoths', 'ImaginaryCyberpunk', 'ImaginaryArmor', 'scifi', 'FifthWorldPics', 'ImaginaryStarships', 'ImaginaryStarscapes', 'ImaginaryWastelands', 'ImaginaryAstronauts', 'ImaginaryBattlefields', 'ImaginaryJedi', 'ImaginaryWeaponry', 'alternativeart', 'ImaginaryMindscapes', 'Illustration', 'ImaginaryCityscapes', 'futureporn', 'ImaginaryHorrors', 'ImaginaryWesteros', 'ImaginaryTechnology', 'ImaginaryRobotics', 'ImaginaryDragons', 'Heavymind', 'steampunk'
+PRAW: 'DragonDrawings'
+
+Subreddit: /r/crochet
+Recommendit: 'yarntrolls', 'knitting', 'crafts', 'CrossStitch'
+PRAW: 'YarnAddicts'
+
+Subreddit: /r/caferacers
+Recommendit: 'motorcycles', 'Triumph', 'bikesgonewild'
+PRAW: 'klr650'
+
+Subreddit: /r/comicbookart
+Recommendit: 'charactercrossovers', 'superman', 'batman', 'ComicWalls', 'HarleyQuinn', 'comicbookmovies', 'Marvel', 'DCcomics', 'ImaginaryCharacters', 'Spiderman', 'deadpool', 'comicbooks', 'xmen', 'alternativeart', 'TMNT'
+PRAW: 'outofcontextcomics'
+
+Subreddit: /r/korea
+Recommendit: 'China', 'Korean'
+PRAW: 'seoul'
+
+Subreddit: /r/singularity
+Recommendit: 'Anarcho_Capitalism', 'TrueReddit', 'solar', 'BasicIncome', 'politics', 'Psychonaut', 'Futurology', 'economy', 'UpliftingNews', 'artificial', 'google', 'technology', 'Rad_Decentralization', 'evolution', 'robotics', 'AnimalRights', 'psychology', 'programming', 'business', 'RenewableEnergy', 'EmDrive', 'statistics', 'Automate', 'skeptic', 'InternetIsBeautiful', 'Cyberpunk', 'energy', 'MachineLearning', 'Economics', 'Libertarian', 'HumanPorn', 'news', 'transhumanism', 'lectures', 'philosophy', 'gadgets', 'math', 'progressive', 'SelfDrivingCars', 'education', 'EverythingScience', 'tech', 'spaceporn', 'RetroFuturism'
+PRAW: 'longevity'
+
+Subreddit: /r/pizza
+Recommendit: 'eatsandwiches', 'castiron', 'steak', 'grilling'
+PRAW: 'beerandpizza'
+
+Subreddit: /r/jailbreak
+Recommendit: 'iOSthemes', 'AlienBlue', 'iphone'
+PRAW: 'jailbreakdevelopers'
+
+Subreddit: /r/historyporn
+Recommendit: 'AnimalsBeingJerks', 'Unexpected', 'InfrastructurePorn', 'Whatcouldgowrong', 'OldSchoolCool', 'ArtPorn', 'SkyPorn', 'woahdude', 'AnimalPorn', 'CityPorn', 'bookporn', 'StarWars', 'instant_regret', 'FirePorn', 'dataisbeautiful', 'MilitaryPorn', 'DesignPorn', 'WarshipPorn', 'WTF', 'nottheonion', 'AnimalsBeingBros', 'space', 'AerialPorn', 'ANormalDayInRussia', 'MapPorn', 'history', 'waterporn', 'ArtefactPorn', 'ArchitecturePorn', 'HumanPorn', 'PerfectTiming', 'WWIIplanes', 'spaceporn', 'Damnthatsinteresting', 'pics', 'interestingasfuck', 'ruralporn', 'vgb', 'MachinePorn', 'DestructionPorn', 'nononono', 'nonononoyes', 'TheWayWeWere', 'RoomPorn', 'creepy', 'VillagePorn', 'EarthPorn', 'AutumnPorn', 'gifs', 'RetroFuturism', 'movies', 'ThingsCutInHalfPorn', 'winterporn', 'NatureGifs', 'Infographics', 'oddlysatisfying', 'BattlePaintings', 'AbandonedPorn', 'PropagandaPosters', 'MURICA', 'AdPorn', 'aviation', 'churchporn'
+PRAW: 'conduitporn'
+
+Subreddit: /r/theflash
+Recommendit: 'marvelstudios', 'Avengers', 'comicbookmovies', 'Spiderman', 'xmen', 'superman', 'deadpool', 'LegendsOfTomorrow', 'GotG', 'FearTheWalkingDead', 'Marvel', 'Gotham', 'Daredevil', 'TMNT', 'arrow', 'batman', 'agentcarter', 'FlashTV', 'DC_Cinematic', 'comicbooks', 'ComicWalls', 'DCcomics', 'horror', 'comicbookart'
+PRAW: 'OneTrueDiggle'
+
+Subreddit: /r/history
+Recommendit: 'Archaeology', 'science', 'privacy', 'evolution', 'scifi', 'California', 'worldevents', 'psychology', 'law', 'business', 'politics', 'entertainment', 'worldnews', 'religion', 'Liberal', 'economy', 'Economics', 'Anthropology', 'robotics', 'progressive', 'technology', 'biology', 'worldpolitics', 'television', 'Health', 'EverythingScience', 'geography', 'UpliftingNews', 'environment', 'architecture', 'inthenews', 'education', 'TrueReddit', 'news', 'books', 'math', 'humor', 'energy', 'offbeat', 'philosophy', 'Foodforthought', 'linguistics', 'nature', 'literature'
+PRAW: 'USHistory'
+
+Subreddit: /r/mildlystartledcats
+Recommendit: 'LazyCats', 'Delightfullychubby', 'boop', 'CatsStandingUp', 'jellybeantoes', 'teefies', 'StuffOnCats', 'catbellies', 'CatsInBusinessAttire', 'Blep', 'CatGifs', 'tuckedinkitties', 'Floof', 'catpictures', 'Catloaf', 'catpranks', 'MEOW_IRL', 'StartledCats', 'StopTouchingMe', 'blackcats'
+PRAW: 'Superbowl'
+
+Subreddit: /r/avengers
+Recommendit: 'Marvel', 'superman', 'doctorwho', 'deadpool', 'PandR', 'Spiderman', 'GotG', 'lotr', 'shield', 'alternativeart', 'charactercrossovers', 'DoctorWhumour', 'HannibalTV', 'batman', 'xmen'
+PRAW: 'outofcontextcomics'
+
+Subreddit: /r/beermoney
+Recommendit: 'Flipping'
+PRAW: 'NADAmobileApp', 'UHRSwork', 'freelance_forhire', 'bingpong', 'almosthomeless', 'BingRewards'
+
+Subreddit: /r/apphookup
+Recommendit: 'ios', 'eFreebies', 'learnpython', 'holdmybeer', 'AlienBlue', 'ideasfortheadmins', 'ipad', 'iphone', 'GameDeals', 'AndroidGaming', 'iosgaming', 'iOSProgramming', 'windows', 'noisygifs', 'apple', 'androidapps'
+PRAW: 'freegold'
+
+Subreddit: /r/tagpro
+Recommendit: 'KansasCityChiefs'
+PRAW: 'USContenders', 'TagProCirclejerk', 'TagProTesting', 'TagProIRL'
+
+Subreddit: /r/studentnurse
+Recommendit: 'knitting', 'nursing'
+PRAW: 'medlabprofessionals'
+
+Subreddit: /r/neckbeardstories
+Recommendit: 'ChronicPain', 'niceguys', 'TheBluePill', 'justneckbeardthings', 'whiteknighting', 'ayylmao'
+PRAW: 'badroommates'
+
+Subreddit: /r/tattoos
+Recommendit: 'tattoo'
+PRAW: 'Best_tattoos', 'TattooDesigns', 'nerdtattoos', 'piercing', 'bodymods'
+
+Subreddit: /r/treknobabble
+Recommendit: 'XFiles', 'DaystromInstitute', 'thingsforants', 'startrek', 'firefly'
+PRAW: 'ShittyDaystrom'
+
+Subreddit: /r/knives
+Recommendit: 'knifeclub', 'ArtisanVideos', 'mallninjashit', 'Leathercraft', 'Bladesmith'
+PRAW: 'KnifeDeals'
+
+Subreddit: /r/glocks
+Recommendit: '1911', 'gundeals', 'Gunsforsale', 'flashlight', 'Hunting', 'Military', 'ar15', 'GunPorn', 'guns', 'reloading', 'grilling', 'gunpolitics', 'ProtectAndServe', 'EDC', 'longrange', 'ak47', 'Firearms', 'weekendgunnit', 'CCW', 'MosinNagant'
+PRAW: 'FindTheSniper'
+
+Subreddit: /r/hammocks
+Recommendit: 'backpacking', 'camping', 'CampingandHiking', 'DesirePath', 'bicycletouring', 'Ultralight'
+PRAW: 'BSA'
+
+Subreddit: /r/9gag
+Recommendit: 'ledootgeneration'
+PRAW: 'fresh_funny', 'faceswap', 'GoldReplies', 'insults', 'badjokes', 'ConfessionBear', 'pickuplines', 'FML', 'mfw', 'Funnypics'
+
+Subreddit: /r/gta
+Recommendit: 'GrandTheftAutoV', 'GTAV', 'gtaonline'
+PRAW: 'TheLosSantosAliens'
+
+Subreddit: /r/productivity
+Recommendit: 'DecidingToBeBetter', 'selfimprovement', 'GetStudying', 'getdisciplined', 'socialskills', 'Wordpress', 'ZenHabits', 'marketing', 'freelance', 'education'
+PRAW: 'NoFapWar'
+
+Subreddit: /r/learnmath
+Recommendit: 'linuxquestions'
+PRAW: 'cheatatmathhomework'
+
+Subreddit: /r/skinnywithabs
+Recommendit: 'arielwinter', 'jennettemccurdy', 'kaleycuoco', 'Kristen_Stewart', 'ScarlettJohansson', 'goddesses', 'nextdoorasians', 'LaurenCohan', 'CelebGfys', 'EmmaWatson', 'MirandaKerr', 'JenniferLawrence', 'KatherineMcNamara', 'Amber_Heard', 'candiceswanepoel', 'kateupton', 'haydenpanettiere', 'AubreyPlaza', 'karliekloss', 'PrettyGirls', 'alexandradaddario', 'BarbaraPalvin', 'victoriajustice', 'BeautifulFemales', 'Mila_Kunis', 'AlexisRen', 'VolleyballGirls', 'SarahHyland', 'chloegracemoretz', 'shorthairedhotties', 'EmmaStone', 'ladyladyboners', 'CelebrityFeet', 'Celebs', 'Pinup', 'HighHeels', 'SelenaGomez', 'evangelinelilly', 'BellaThorne', 'LatinaCuties', 'gentlemanboners', 'HistoryPorn', 'happygirls', 'AsianCuties', 'GirlsPlayingSports', 'AshleyGreene', 'cosplaygirls', 'SFWRedheads', 'hardbodies', 'starlets', 'oliviawilde', 'AlisonBrie', 'FreckledGirls', 'FitAndNatural', 'sexygirls', 'katyperry', 'Models', 'EmilyRatajkowski', 'ClassyPornstars', 'OldSchoolCool', 'Hot_Women_Gifs', 'CelebsMX', 'natalieportman', 'randomsexygifs', 'gifs', 'realasians', 'girls_smiling'
+PRAW: 'CrossfitGirls'
+
+Subreddit: /r/nova
+Recommendit: 'washingtondc'
+PRAW: 'gmu', 'DCforRent'
+
+Subreddit: /r/bonsai
+Recommendit: 'whatsthisplant'
+PRAW: 'orchids', 'cactus', 'succulents', 'SavageGarden', 'flowers', 'paintball', 'airsoft'
+
+Subreddit: /r/expectationvsreality
+Recommendit: 'MadeMeSmile'
+PRAW: 'againstmarijuana', 'BlackScienceMan', 'FirstWorldConformists', 'cahideas', 'trippinthroughtime'
+
+Subreddit: /r/wwiipics
+Recommendit: 'newreddits', 'spaceporn', 'TankPorn', 'classic4chan', 'NewsOfTheWeird', 'TrainPorn', 'InfrastructurePorn', 'CombatFootage', 'OldSchoolCool', 'TheWayWeWere', 'AnimalPorn', 'MachinePorn', 'history', 'poland', 'ruralporn', 'ArchitecturePorn', 'AbandonedPorn', 'trains', 'germany', 'minnesota', 'NewsOfTheStupid', 'PerfectTiming', 'AnimalsBeingBros', 'Iceland', 'arizona', 'wikipedia', 'kreiswichs', 'SCHLAND', 'WWIIplanes', 'WarplanePorn', 'WarshipPorn', 'churchporn', 'nonononoyes', 'Maine', 'crazystairs', 'Owls', 'HumanPorn', 'WorldofTanks', 'DestructionPorn', 'Military', 'PropagandaPosters', 'seaporn', 'Albuquerque', 'spaceflight', 'CatGifs', 'funnysigns', 'redorchestra', 'oakland', 'Liberal', 'DestroyedTanks', 'texas', 'waterporn', 'MilitaryPorn', 'ThingsCutInHalfPorn', 'BattlePaintings', 'QuotesPorn', 'HistoryPorn', 'castles', 'advertising', 'robotics'
+PRAW: 'OldSchoolRidiculous'
+
+Subreddit: /r/bwfc
+Recommendit: 'onejob', 'BritishSuccess', 'uktrees', 'YouShouldKnow', 'suits', 'husky', 'IASIP', 'happycrowds', 'fcbayern', 'Prematurecelebration', 'sports', '195', 'leafs', 'tennis', 'annakendrick', 'ShittyFanTheories', 'manchester', 'Daredevil', 'logophilia', 'Braveryjerk', '4ChanMeta', 'magicskyfairy', 'soccercirclejerk'
+PRAW: 'lcfc'
+
+Subreddit: /r/scuba
+Recommendit: 'sharks'
+PRAW: 'IndianCountry', 'submechanophobia', 'tradclimbing', 'airsoft'
+
+Subreddit: /r/bikecommuting
+Recommendit: 'FixedGearBicycle', 'bicycletouring', 'bikewrench', 'cycling', 'bicycling', 'cyclocross'
+PRAW: 'ebikes'
+
+Subreddit: /r/exmuslim
+Recommendit: 'evolution', 'Psychonaut', 'syriancivilwar', 'atheism', 'russia', 'kurdistan', 'atheistvids', 'TrueAtheism', 'YouShouldKnow', 'Israel', 'CredibleDefense', 'Turkey', '9gag', 'AskUK', 'arabs', 'humanism', 'Meditation', 'exchristian'
+PRAW: 'shia'
+
+Subreddit: /r/baltimore
+Recommendit: 'florida', 'California', 'education', 'washingtondc', 'orioles', 'ravens', 'Pennsylvania', 'maryland', 'Washington'
+PRAW: 'jhu'
+
+Subreddit: /r/upvotegifs
+Recommendit: 'DubbedGIFS', 'NatureGifs', 'combinedgifs', 'perfectloops', 'WastedGifs', 'HighQualityGifs', 'gifs', 'reactiongifs', 'loadingicon', 'analogygifs', 'oddlysatisfying', 'AnimalsBeingJerks', 'SplitDepthGIFS', 'gameofthrones', 'BestOfReports', 'nononono', 'woahdude', 'blackpeoplegifs', 'DickButt', 'shittyreactiongifs', 'nonononoyes', 'michaelbaygifs', 'educationalgifs', 'gifextra', 'Cinemagraphs', 'noisygifs', 'GamePhysics', 'Unexpected', 'instant_regret', 'Whatcouldgowrong', 'holdmybeer'
+PRAW: 'javertgifs'
+
+Subreddit: /r/archerfx
+Recommendit: 'IASIP'
+PRAW: 'AquaJail', 'Blackjesus', 'Bloodline', 'zoidberg'
+
+Subreddit: /r/crafts
+Recommendit: 'knitting', 'somethingimade', 'Embroidery', 'quilting', 'sewing', 'crochet'
+PRAW: 'soapmaking'
+
+Subreddit: /r/ar15
+Recommendit: 'Firearms', 'gats', 'GunPorn', 'guns', 'reloading', 'Glocks', '1911', 'progun', 'ak47', 'gunpolitics', 'Gunsforsale', 'CCW', 'longrange', 'gundeals', 'Military'
+PRAW: 'FindTheSniper'
+
+Subreddit: /r/thesims
+Recommendit: 'AnimalCrossing'
+PRAW: 'TheSimsBuilding', 'thesimscc', 'dynastywarriors', 'civsaves'
+
+Subreddit: /r/ourperpetualexemption
+Recommendit: 'roguelikes', 'nongolfers', 'OkCupid', 'ImaginaryJedi', 'AskScienceFiction', 'ShittyEarthPorn', 'AdviceAtheists', 'ScenesFromAHat', 'firefox', 'StartledCats', 'galaxys5', 'theocho', 'ukraine', 'botsrights', 'lastweektonight', 'orangeisthenewblack', 'debian', 'cringe', 'breakingbad'
+PRAW: 'AskReddit'
+
+Subreddit: /r/glitch_in_the_matrix
+Recommendit: 'Paranormal', 'MandelaEffect'
+PRAW: 'gratefuldoe'
+
+Subreddit: /r/terraria
+Recommendit: 'bindingofisaac'
+PRAW: 'TerrariaDesign', 'ShittyTerraria', 'FFRecordKeeper', 'simplerockets', 'NexusNewbies', 'thebindingofisaac', 'boogie2988', 'ToME4', 'JimSterling', 'ClickerHeroes'
+
+Subreddit: /r/funnysigns
+Recommendit: 'Punny', 'InfrastructurePorn', 'Owls', 'DesirePath', 'Wellthatsucks'
+PRAW: 'actuallyfunny'
+
+Subreddit: /r/germany
+Recommendit: 'berlin', 'japan', 'business', 'energy', 'religion', 'SCHLAND', 'churchporn', 'politics', 'ukpolitics', 'Kentucky', 'Switzerland', 'poland', 'belgium', 'Turkey', 'economy', 'Liberal', 'books', 'worldpolitics', 'Norway', 'de', 'Munich', 'greece', 'worldnews', 'wikipedia', 'education', 'NichtDerPostillon', 'texas', 'RenewableEnergy', 'Economics', 'inthenews', 'france', 'opensource', 'arizona', 'progressive', 'California', 'russia', 'robotics', 'europe', 'linguistics', 'China'
+PRAW: 'rocketbeans'
+
+Subreddit: /r/happycrowds
+Recommendit: 'sportsarefun'
+PRAW: 'TIDTRT', 'CrowdPulledOnStage', 'Motivatinggiraffe', 'awesome'
+
+Subreddit: /r/interstellar
+Recommendit: 'movies'
+PRAW: 'MadMax', 'JurassicPark', 'LV426', 'lebowski', 'BacktotheFuture', 'GODZILLA', 'StarWarsLeaks', 'boxoffice', 'fringe', 'StarWars'
+
+Subreddit: /r/ich_iel
+Recommendit: 'moviescirclejerk', 'quityourbullshit', 'juxtaposition', 'bitchimabus', 'Voat', 'cirkeltrek', 'Austria', 'Switzerland', 'mildlyinfuriating', 'mildlypenis', 'kreiswichs', 'ilerminaty', 'Ingress', 'lapfoxtrax', 'SkyPorn', 'germany', 'circlejerk', 'NichtDerPostillon', 'SCHLAND', 'OutOfTheLoop', 'footbaww', 'ShittyMapPorn', 'familyguy', 'wowthissubexists', 'ShitAmericansSay', 'Braveryjerk', 'modeltrains', 'Volkswagen', 'softwaregore', 'DANMAG', 'CrappyDesign', 'TrainPorn', 'berlin', 'InternetIsBeautiful', 'Stargate', 'aviation', '4ChanMeta', 'shittyadvice', 'GermanyPics', 'de'
+PRAW: 'me_irl'
+
+Subreddit: /r/ukpolitics
+Recommendit: 'worldpolitics', 'conspiracy', 'LabourUK', 'britishproblems', 'germany', 'progressive', 'BritishSuccess', 'socialism', 'MitchellAndWebb', 'INGLIN', 'Libertarian', 'Economics', 'ukipparty', 'Liberal', 'economy', 'unitedkingdom', 'london', 'Twitter', 'britpics', 'BritishTV', 'Foodforthought', 'privacy', 'AskUK', 'BritishPolitics', 'occupywallstreet', 'europe', 'TrueReddit', 'WikiLeaks', 'worldevents'
+PRAW: 'LegalAdviceUK'
+
+Subreddit: /r/techsupportmacgyver
+Recommendit: 'electronics', 'DiWHY', 'softwaregore', 'bitchimabus', 'computertechs', 'retrobattlestations', 'cablefail', 'techsupportgore'
+PRAW: 'hackedgadgets'
+
+Subreddit: /r/datasets
+Recommendit: 'MachineLearning', 'HumanPorn', 'TrueReddit', 'programming', 'dataisbeautiful', 'compsci', 'math', 'gis', 'netsec', 'datascience', 'Python', 'MapPorn', 'ruby', 'cogsci', 'statistics', 'artificial'
+PRAW: 'actuary'
+
+Subreddit: /r/itcrowd
+Recommendit: 'RedDwarf'
+PRAW: 'skinsTV', 'TACSdiscussion', 'ronandfez', 'MitchellAndWebb', 'Frasier', 'malcolminthemiddle', 'rickygervais', 'montypython'
+
+Subreddit: /r/brandnew
+Recommendit: 'TheFence'
+PRAW: 'MyChemicalRomance', 'SmashingPumpkins', 'TheKillers', 'ModestMouse', 'weezer', 'TheAvettBrothers', 'arcadefire'
+
+Subreddit: /r/shitstatistssay
+Recommendit: 'Bad_Cop_No_Donut', 'im14andthisisfunny', 'whiteknighting', 'progun', 'sjwhate', 'restorethefourth', 'MensRights', 'enoughsandersspam', 'SRSsucks', 'gunpolitics', 'Libertarian', 'TumblrInAction', 'Republican', 'Anarcho_Capitalism', 'TumblrAtRest', 'libertarianmeme'
+PRAW: 'ShitPoliticsSays'
+
+Subreddit: /r/entp
+Recommendit: 'INTP', 'infj', 'mbti'
+PRAW: 'istp'
+
+Subreddit: /r/australiancattledog
+Recommendit: 'Austin', 'dogs'
+PRAW: 'MiniaturePinscher'
+
+Subreddit: /r/eatsandwiches
+Recommendit: 'tonightsdinner', 'slowcooking', 'grilledcheese', 'food', 'FoodPorn', 'shittyfoodporn', 'Pizza'
+PRAW: 'beerandpizza'
+
+Subreddit: /r/madmen
+Recommendit: 'HouseOfCards'
+PRAW: 'RayDonovan', 'BoardwalkEmpire', 'fridaynightlights', 'WetHotAmericanSummer', 'turn'
+
+Subreddit: /r/morrowind
+Recommendit: 'oblivion', 'skyrim', 'ElderScrolls', 'TrueSTL', 'teslore', 'skyrimmods'
+PRAW: 'skywind'
+
+Subreddit: /r/anxiety
+Recommendit: 'introvert'
+PRAW: 'parentlessbychoice', 'eczema', 'CrohnsDisease', 'Stutter', 'AlAnon'
+
+Subreddit: /r/standupcomedy
+Recommendit: 'entertainment', 'Standup', 'comedy'
+PRAW: 'standupshots'
+
+Subreddit: /r/3dmodeling
+Recommendit: 'low_poly', 'Cinema4D'
+PRAW: 'ZBrush'
+
+Subreddit: /r/chronotrigger
+Recommendit: 'chiptunes', 'Metroid', 'Megaman', 'Mario', 'nes', 'gamemusic', 'charactercrossovers', 'rpg_gamers', 'casualnintendo', 'JRPG', 'earthbound', 'Kirby', 'zelda', 'FinalFantasy', 'snes'
+PRAW: 'bloodlinechampions'
+
+Subreddit: /r/britishtv
+Recommendit: 'london', 'unitedkingdom', 'britishproblems', 'television', 'INGLIN', 'MitchellAndWebb', 'britpics', 'Documentaries', 'AskUK', 'BritishSuccess', 'RedDwarf', 'ukpolitics'
+PRAW: 'turn'
+
+Subreddit: /r/rickandmorty
+Recommendit: 'Harmontown'
+PRAW: 'theboondocks', 'TheEricAndreShow', 'tinabelcher', 'ImpracticalJokers', 'battlebots', 'webarebears', 'WetHotAmericanSummer', 'HomestarRunner', 'Blackjesus', 'StarVStheForcesofEvil'
+
+Subreddit: /r/bad_cop_no_donut
+Recommendit: 'Liberal', 'economy', 'environment', 'evolutionReddit', 'Marijuana', 'technology', 'progressive', 'RBI', 'worldpolitics', 'skeptic', 'NewsOfTheStupid', 'Health', 'politics', 'Ohio', 'UpliftingNews', 'PussyPass', 'uspolitics', 'climate', 'Kentucky', 'California', 'Foodforthought', 'Anarcho_Capitalism', 'altnewz', 'business', 'Indiana', 'Pennsylvania', 'atheism', 'Louisiana', 'religion', 'maryland', 'education', 'occupywallstreet', 'wikipedia', 'FloridaMan', 'racism', 'EndlessWar', 'conspiracy', 'AmIFreeToGo', 'Iowa', 'GunsAreCool', 'NewsOfTheWeird', 'Economics', 'WikiLeaks', 'minnesota', 'arizona', 'EverythingScience', 'NorthCarolina', 'privacy', 'Michigan', 'Drugs', 'collapse', 'lostgeneration', 'PoliticalHumor', 'inthenews', 'offbeat', 'AnythingGoesNews', 'snowden', 'Alabama', 'TrueReddit', 'news', 'restorethefourth', 'texas', 'law', 'Libertarian', 'nottheonion', 'Washington', 'entertainment', 'florida'
+PRAW: 'PINAC'
+
+Subreddit: /r/transspace
+Recommendit: 'ideasfortheadmins', 'AskHistorians', 'conspiratard', 'transpassing', 'actuallesbians', 'transgender', 'GirlGamers', 'genderqueer', 'SubredditDrama', 'DaystromInstitute', 'transtimelines', 'Bandnames', 'RedditThroughHistory', 'occupywallstreet', 'army', 'ftm', 'racism', 'transgendercirclejerk', 'lgbtaww', 'asktransgender', 'bisexual', 'rpg', 'TheoryOfReddit', 'lgbt', 'history', 'transpositive', 'ainbow', 'MtF', 'traaaaaaannnnnnnnnns', 'aspergers', 'LGBTnews'
+PRAW: 'transadorable'
+
+Subreddit: /r/samoyeds
+Recommendit: 'puppies', 'goldenretrievers', 'photoshopbattles', 'computers', 'whatsthisbird', 'Rabbits', 'baltimore', 'bayarea'
+PRAW: 'MiniaturePinscher'
+
+Subreddit: /r/filmmakers
+Recommendit: 'movies', 'cinematography', 'vfx', 'photography', 'editors'
+PRAW: 'Filmmaker4Filmmaker'
+
+Subreddit: /r/soundporn
+Recommendit: 'PlayItAgainSam'
+PRAW: 'synthrecipes', 'maschine'
+
+Subreddit: /r/thedarktower
+Recommendit: 'stephenking'
+PRAW: 'ImaginaryNewNewYork', 'TheCulture'
+
+Subreddit: /r/linguistics
+Recommendit: 'Economics', 'Foodforthought', 'MapPorn', 'books', 'evolution', 'psychology', 'history', 'Anthropology', 'education', 'energy', 'typography', 'badlinguistics', 'business', 'literature', 'etymology', 'Health', 'TrueReddit'
+PRAW: 'moderatepolitics'
+
+Subreddit: /r/financialindependence
+Recommendit: 'simpleliving', 'TinyHouses', 'personalfinance', 'investing', 'consulting', 'BasicIncome', 'Entrepreneur', 'RealEstate'
+PRAW: 'Landlord'
+
+Subreddit: /r/blender
+Recommendit: 'low_poly', 'Simulated', 'perfectloops', 'animation', 'loadingicon'
+PRAW: 'ZBrush'
+
+Subreddit: /r/kingofthehill
+Recommendit: 'familyguy', 'seinfeld', 'arresteddevelopment', 'TheSimpsons', '30ROCK', 'venturebros', 'BobsBurgers', 'IASIP'
+PRAW: 'tinabelcher'
+
+Subreddit: /r/excel
+Recommendit: 'consulting'
+PRAW: 'vba', 'counting'
+
+Subreddit: /r/design
+Recommendit: 'minimalism', 'web_design', 'typography', 'AdPorn', 'graphic_design', 'InternetIsBeautiful', 'DesignPorn', 'architecture', 'advertising'
+PRAW: 'digitaltutorials'
+
+Subreddit: /r/oblivion
+Recommendit: 'Morrowind', 'ElderScrolls', 'Fallout', 'TrueSTL', 'teslore', 'fnv', 'skyrimmods', 'skyrim'
+PRAW: 'skywind'
+
+Subreddit: /r/theweeknd
+Recommendit: 'ifyoulikeblank'
+PRAW: 'FrankOcean', 'Kanye', 'ChiefKeef', 'mfdoom', 'OFWGKTA', 'TameImpala', 'Eminem', 'deathgrips', 'jackwhite', 'HipHopImages'
+
+Subreddit: /r/skateboarding
+Recommendit: 'PerfectTiming', 'Graffiti', 'bmx'
+PRAW: 'NewSkaters'
+
+Subreddit: /r/volvo
+Recommendit: 'Autos', 'saab', 'Ford', 'battlewagon', 'thewholecar', 'Volkswagen'
+PRAW: 'Hyundai'
+
+Subreddit: /r/nightvale
+Recommendit: 'HannibalTV'
+PRAW: 'fandomnatural'
+
+Subreddit: /r/learnuselesstalents
+Recommendit: 'InternetIsBeautiful', 'woahdude', 'educationalgifs'
+PRAW: 'cardistry'
+
+Subreddit: /r/sailormoon
+Recommendit: 'attackontitan', 'JRPG', 'Metroid', 'ghibli', 'cosplayers', 'FinalFantasy', 'ShingekiNoKyojin', 'catbellies', 'xmen'
+PRAW: 'rupaulsdragrace'
+
+Subreddit: /r/statistics
+Recommendit: 'TheoryOfReddit', 'software', 'urbanplanning', 'offbeat', 'compsci', 'biology', 'dataisbeautiful', 'opensource', 'datasets', 'programming', 'psychology', 'math', 'evolution', 'datascience', 'robotics', 'lectures', 'Physics', 'cogsci', 'philosophy', 'MachineLearning', 'finance', 'Anthropology', 'linux', 'Python', 'highereducation', 'emacs', 'EverythingScience', 'education', 'AskSocialScience', 'artificial', 'humor', 'netsec', 'Economics', 'Foodforthought'
+PRAW: 'actuary'
+
+Subreddit: /r/theoryofreddit
+Recommendit: 'BestOfReports', 'ideasfortheadmins', 'newreddits', 'circlebroke', 'SubredditDrama', 'worstof', 'DepthHub'
+PRAW: 'changemyview'
+
+Subreddit: /r/luciddreaming
+Recommendit: 'Psychonaut'
+PRAW: 'sleep', 'soylent', 'penspinning'
+
+Subreddit: /r/zenhabits
+Recommendit: 'Stoicism', 'business', 'humanism', 'Anticonsumption', 'education', 'Health', 'religion', 'psychology', 'malelifestyle', 'dating_advice', 'everymanshouldknow', 'Meditation', 'howto', 'Buddhism', 'simpleliving', 'howtonotgiveafuck', 'selfimprovement', 'Mindfulness', 'EverythingScience', 'collapse', 'Psychonaut', 'SocialEngineering', 'motivation', 'socialskills', 'DecidingToBeBetter', 'getdisciplined', 'nature', 'productivity', 'seduction', 'evolution'
+PRAW: 'GetSuave'
+
+Subreddit: /r/nes
+Recommendit: 'Metroid', 'Gameboy', 'dreamcast', 'SonicTheHedgehog', 'TMNT', 'chronotrigger', 'Megaman', 'Doom', 'cade', 'nintendo', 'Mario', 'retrogaming', 'chiptunes', 'TheCinemassacre', 'playstation', 'Kirby', 'snes', 'MarioMaker', 'gamecollecting', 'FinalFantasy', 'casualnintendo', 'gamemusic'
+PRAW: 'pinball'
+
+Subreddit: /r/fullcommunism
+Recommendit: 'socialism', 'Negareddit', 'paradoxplaza', 'communism', 'ShitLiberalsSay', 'Anarchism', 'me_irl', 'communism101', 'EnoughLibertarianSpam', 'anarchomemes', 'SRSGaming', 'lectures', 'lostgeneration', 'badlinguistics', 'CommunismWorldwide', 'philosophy', 'badphilosophy', 'goldredditsays', 'againstmensrights', 'PropagandaPosters', 'FemmeThoughts', 'badpolitics', 'me_irl_video'
+PRAW: 'gulag'
+
+Subreddit: /r/bravorealhousewives
+Recommendit: 'Dogtraining', 'financialindependence', 'TwoXChromosomes', 'newjersey', 'popping', 'ttcafterloss', 'childfree', 'EatCheapAndHealthy', 'gameofthrones', 'bodyweightfitness', 'raleigh', 'WahoosTipi', 'The100', 'Wishlist', 'glutenfree', 'misc', 'coversongs', 'ucf', 'Flipping', 'arrow'
+PRAW: 'television'
+
+Subreddit: /r/truegaming
+Recommendit: 'Games'
+PRAW: 'TestOutfit', 'localmultiplayergames', 'Suikoden', 'MetalGearSolidV_PC', 'Helldivers', 'joinsquad', 'FFXIVGlamours', 'acecombat', 'ProjectMilSim', 'breakingpoint'
+
+Subreddit: /r/uwotm8
+Recommendit: 'justneckbeardthings'
+PRAW: 'NavySealCopypasta', 'dank_meme', 'pepethefrog', 'ooerintensifies', 'ayylmao', 'dankmemes', 'JustStemThings', 'tardtales', 'youdontsurf', '8chan'
+
+Subreddit: /r/shittyadviceanimals
+Recommendit: 'shittyama', 'FiftyFifty', 'coaxedintoasnafu', 'ShittyTodayILearned', 'shittyaskreddit', 'toosoon', 'shittyideas', 'Negareddit', 'botsrights', 'ShittyFanTheories', 'shittyreactiongifs', 'magicskyfairy', 'shittyadvice', 'im14andthisisfunny', 'shittynosleep', 'ShittyEarthPorn', 'Braveryjerk', 'thingsforants', 'ShittyLifeProTips'
+PRAW: 'ShittyMapPorn'
+
+Subreddit: /r/latin
+Recommendit: 'badlinguistics', 'typography', 'ancientrome', 'TrueReddit', 'languagelearning', 'AcademicBiblical', 'linguistics', 'france', 'literature', 'French'
+PRAW: 'norsk'
+
+Subreddit: /r/economics
+Recommendit: 'lectures', 'psychology', 'energy', 'economy', 'gadgets', 'offbeat', 'lostgeneration', 'religion', 'EverythingScience', 'worldpolitics', 'progressive', 'uspolitics', 'worldnews', 'democrats', 'news', 'singularity', 'arizona', 'Marijuana', 'history', 'cogsci', 'evolution', 'education', 'Physics', 'women', 'environment', 'Libertarian', 'racism', 'conspiracy', 'transhumanism', 'WikiLeaks', 'investing', 'architecture', 'socialism', 'Bad_Cop_No_Donut', 'humor', 'finance', 'Pennsylvania', 'Anarcho_Capitalism', 'climate', 'sociology', 'privacy', 'Liberal', 'TrueReddit', 'BasicIncome', 'RenewableEnergy', 'law', 'solar', 'science', 'Colorado', 'Documentaries', 'wikipedia', 'labor', 'occupywallstreet', 'literature', 'California', 'business', 'books', 'inthenews', 'statistics', 'politics', 'Archaeology', 'linguistics', 'Foodforthought', 'entertainment', 'robotics', 'Ohio', 'PoliticalHumor', 'technology', 'skeptic', 'Freethought', 'AnythingGoesNews', 'Futurology', 'collapse', 'math', 'philosophy', 'software', 'geopolitics', 'Automate', 'ideasfortheadmins', 'Health'
+PRAW: 'LSAT'
+
+Subreddit: /r/crossstitch
+Recommendit: 'crochet'
+PRAW: 'Embroidery', 'quilting', 'Etsy', 'soapmaking'
+
+Subreddit: /r/aftereffects
+Recommendit: 'videography', 'low_poly', 'editors', 'DickButt', 'vfx', 'loadingicon', 'animation', 'upvotegifs', 'Cinema4D'
+PRAW: 'MotionDesign'
+
+Subreddit: /r/mallninjashit
+Recommendit: 'knives'
+PRAW: 'dankgatmaymays', 'KnifeDeals', 'knifemaking'
+
+Subreddit: /r/diabetes
+Recommendit: 'Health'
+PRAW: 'MultipleSclerosis', 'Epilepsy', 'cfs', 'cancer', 'ibs', 'Fibromyalgia', 'SleepApnea', 'PCOS', 'Hypothyroidism'
+
+Subreddit: /r/programming
+Recommendit: 'windows', 'web_design', 'technology', 'javascript', 'offbeat', 'software', 'java', 'wikipedia', 'microsoft', 'education', 'node', 'math', 'vim', 'emacs', 'statistics', 'webdev', 'business', 'lectures', 'firefox', 'opensource', 'coding', 'google', 'Python', 'linux', 'ruby', 'csharp', 'electronics', 'robotics', 'Physics', 'books', 'privacy', 'rust', 'tech', 'TrueReddit', 'Foodforthought', 'hardware', 'netsec', 'compsci'
+PRAW: 'haskellgamedev'
+
+Subreddit: /r/spotify
+Recommendit: 'AlbumArtPorn'
+PRAW: 'TheAvettBrothers', 'TheStrokes', 'AltJ', 'bobdylan', 'MusicVideos'
+
+Subreddit: /r/greyhounds
+Recommendit: 'dogswearinghats', 'blop'
+PRAW: 'MiniaturePinscher'
+
+Subreddit: /r/patientgamers
+Recommendit: 'Games'
+PRAW: 'localmultiplayergames', 'roguesystem', 'ArenaFPS', 'RedditBrigade', 'Prismata'
+
+Subreddit: /r/artificial
+Recommendit: 'Automate', 'robotics', 'statistics', 'math', 'elonmusk', 'space', 'programming', 'cogsci', 'transhumanism', 'tech', 'singularity', 'chess', 'evolution', 'technology', 'gadgets', 'energy', 'electricvehicles', 'compsci', 'RetroFuturism', 'sociology', 'europe', 'ideasfortheadmins', 'solar', 'philosophy', 'EverythingScience', 'TrueReddit', 'HumanPorn', 'vim', 'google', 'spaceporn', 'RenewableEnergy', 'Physics', 'Economics', 'Futurology', 'coding', 'MachineLearning', 'datasets'
+PRAW: 'longevity'
+
+Subreddit: /r/cookingvideos
+Recommendit: 'recipes', 'food', 'gardening', 'interesting', 'Twitter', 'Houseporn', 'newreddits', 'foodhacks', 'FoodPorn', 'pureawesomeness', 'PlayItAgainSam', 'ArtisanVideos', 'nyc', 'ClassicRock', 'Fishing', 'Documentaries', 'RoomPorn', 'Pictures', 'Images', 'shutupandtakemymoney', 'jambands', 'Awww', 'Cooking', 'sousvide', 'tech', 'juxtaposition', 'budgetfood', 'HealthyFood'
+PRAW: 'sexypizza'
+
+Subreddit: /r/conlangs
+Recommendit: 'shitduolingosays', 'German', 'linguistics', 'pitchforkemporium', 'Handwriting', 'French', 'worldbuilding', 'badlinguistics', 'TheoryOfReddit', 'vexillology', 'duolingo'
+PRAW: 'heraldry'
+
+Subreddit: /r/rockband
+Recommendit: 'Pixar'
+PRAW: 'GuitarHero'
+
+Subreddit: /r/tf2shitposterclub
+Recommendit: 'Portal', 'ilerminaty', 'anime_irl', 'tf2', 'Voat', '4ChanMeta', 'roblox', 'punchablefaces', 'TF2fashionadvice', 'FurryHate', 'shittynosleep', 'iamverysmart', 'justneckbeardthings', 'UnexpectedCena', 'ledootgeneration', 'Agario', 'niceb8m8', 'wowthissubexists', 'CringeAnarchy', 'touhou'
+PRAW: 'TF2WeaponIdeas'
+
+Subreddit: /r/stuffoncats
+Recommendit: 'creepy', 'hardcoreaww', 'nonononoyes', 'AnimalsBeingDerps', 'awwwtf', 'interestingasfuck', 'WTF', 'AnimalsBeingJerks', 'AnimalsBeingBros', 'photoshopbattles', 'PerfectTiming', 'holdmybeer', 'Catloaf', 'woahdude', 'instant_regret', 'CatsStandingUp', 'BirdsBeingDicks', 'MildlyStartledCats', 'CatHighFive', 'boop', 'MEOW_IRL', 'funny', 'StopTouchingMe', 'foxes', 'catpictures', 'gifs', 'chemicalreactiongifs', 'CatsInBusinessAttire', 'Floof', 'TaylorSwift', 'blackcats', 'jellybeantoes', 'Delightfullychubby', 'CatConspiracy', 'MyPeopleNeedMe', 'CatGifs', 'catbellies', 'LazyCats', 'mildlypenis', 'teefies', 'educationalgifs', 'Unexpected', 'spacecats', 'Punny', 'Blep', 'MURICA', 'ShittyAnimalFacts', 'misleadingthumbnails', 'StartledCats', 'CatsInSinks', 'puppies', 'tuckedinkitties', 'mainecoons'
+PRAW: 'BatFacts'
+
+Subreddit: /r/pitbulls
+Recommendit: 'dogpictures'
+PRAW: 'MiniaturePinscher', 'BullTerrier'
+
+Subreddit: /r/netflixbestof
+Recommendit: 'netflix'
+PRAW: 'Hulu', 'theworstofnetflix'
+
+Subreddit: /r/litecoin
+Recommendit: 'dogecoin', 'CryptoCurrency', 'Bitcoin', 'TOR', 'Monero', 'BitcoinMarkets'
+PRAW: 'BitcoinAll'
+
+Subreddit: /r/rva
+Recommendit: 'nova'
+PRAW: 'vcu'
+
+Subreddit: /r/foreveralone
+Recommendit: 'introvert'
+PRAW: 'FreeCompliments', 'short', 'faimprovement'
+
+Subreddit: /r/analogygifs
+Recommendit: 'blackpeoplegifs', 'DickButt', 'AnimalsBeingBros', 'nonononoyes', 'holdmybeer', 'combinedgifs', 'StartledCats', 'noisygifs', 'upvotegifs', 'Whatcouldgowrong', 'whitepeoplegifs', 'AnimalsBeingJerks', 'WTF', 'Unexpected', 'tumblr', 'perfectloops', 'instant_regret', 'reactiongifs', 'HighQualityGifs', 'NatureGifs', 'DubbedGIFS', 'boop', 'shittyreactiongifs', 'IdiotsFightingThings', 'AnimalsBeingDerps', 'oddlysatisfying', 'woahdude', 'gifs', 'gameofthrones'
+PRAW: 'musicgifstation'
+
+Subreddit: /r/cincinnati
+Recommendit: 'Columbus', 'OhioStateFootball', 'Kentucky', 'Reds', 'Detroit', 'bengals', 'Ohio'
+PRAW: 'ElPaso'
+
+Subreddit: /r/askcarsales
+Recommendit: 'mazda3', 'whatcarshouldIbuy'
+PRAW: 'AskLE'
+
+Subreddit: /r/gentlemanbonersgifs
+Recommendit: 'AshleyBenson', 'celeb_redheads', 'sophieturner', 'gifs', 'kaleycuoco', 'starlets', 'TaylorSwift', 'ArianaGrande', 'JenniferLawrence', 'SelenaGomez', 'zooeydeschanel', 'Mila_Kunis', 'SexyWomanOfTheDay', 'hdcelebgifs', 'victoriajustice', 'katyperry', 'annakendrick', 'CelebGfys', 'karengillan', 'goddesses', 'celebritylegs', 'GirlsMirin', 'MadeMeSmile', 'PrettyGirls', 'Unexpected', 'AshleyGreene', 'NatalieDormer', 'girls_smiling', 'SFWRedheads', 'HighQualityGifs', 'gameofthrones', 'AlisonBrie', 'EmmaStone', 'PrettyOlderWomen', 'oliviawilde', 'cutegirlgifs', 'NinaDobrev', 'Hot_Women_Gifs', 'AubreyPlaza', 'BeautifulFemales', 'alexandradaddario', 'Celebs', 'kateupton', 'natalieportman', 'EmmaWatson', 'gentlemanboners', 'OldSchoolCool', 'Kristen_Stewart', 'ANormalDayInRussia', 'EmilyRatajkowski', 'ScarlettJohansson', 'randomsexygifs', 'TaylorSwiftPictures', 'EmiliaClarke', 'TopCelebStuff', 'interestingasfuck', 'christinahendricks', 'MaryElizabethWinstead'
+PRAW: 'celeb_blondes'
+
+Subreddit: /r/minneapolis
+Recommendit: 'NorthCarolina', 'Ohio', 'alaska', 'Pennsylvania', 'California', 'economy', 'progressive', 'wisconsin', 'timberwolves', 'southcarolina', 'wildhockey', 'minnesotatwins', 'environment', 'books', 'florida', 'milwaukee', 'minnesota', 'TwinCities', 'politics', 'arizona', 'education', 'Kentucky'
+PRAW: 'desmoines'
+
+Subreddit: /r/etymology
+Recommendit: 'linguistics', 'whatstheword'
+PRAW: 'TakeOneStepForward'
+
+Subreddit: /r/quityourbullshit
+Recommendit: 'rage'
+PRAW: 'Fiveheads', 'humblebrag', 'IgnorantImgur', 'killthosewhodisagree', '4PanelCringe', 'ComedyCemetery', 'OopsDidntMeanTo', 'whiteknighting', 'LifeWithIgor', 'pitchforkemporium'
+
+Subreddit: /r/vegetarian
+Recommendit: 'vegan', 'education', 'AnimalRights', 'HailCorporate'
+PRAW: 'Celiac'
+
+Subreddit: /r/bleachshirts
+Recommendit: 'ShingekiNoKyojin', 'Aquariums'
+PRAW: 'beadsprites'
+
+Subreddit: /r/southafrica
+Recommendit: 'germany', 'southcarolina', 'HumanPorn', 'evolution', 'InternetIsBeautiful'
+PRAW: 'Pyongyang'
+
+Subreddit: /r/photography
+Recommendit: 'business', 'education', 'entertainment', 'Design', 'space', 'postprocessing', 'Foodforthought', 'history'
+PRAW: 'pentax'
+
+Subreddit: /r/pathfinder_rpg
+Recommendit: 'DungeonsAndDragons', 'worldbuilding', 'gametales', 'rpg', 'dndnext', 'swrpg', 'DnD', 'Shadowrun'
+PRAW: 'titansgrave'
+
+Subreddit: /r/racism
+Recommendit: 'worldpolitics', 'energy', 'religion', 'TrueReddit', 'PoliticalHumor', 'Economics', 'uspolitics', 'history', 'EverythingScience', 'politics', 'GunsAreCool', 'AmericanPolitics', 'nature', 'Marijuana', 'Kentucky', 'Health', 'arizona', 'worldnews', 'AnimalRights', 'NewsOfTheWeird', 'snowden', 'entertainment', 'Palestine', 'education', 'climate', 'Anthropology', 'Liberal', 'democrats', 'women', 'evolutionReddit', 'news', 'humor', 'Ohio', 'urbanplanning', 'biology', 'feminisms', 'inthenews', 'beer', 'psychology', 'lgbt', 'Beekeeping', 'Archaeology', 'science', 'humanism', 'Alabama', 'southcarolina', 'Freethought', 'Indiana', 'environment', 'highereducation', 'water', 'Veterans', 'business', 'labor', 'UpliftingNews', 'California', 'opensource', 'robotics', 'skeptic', 'NewsOfTheStupid', 'atheism', 'asianamerican', 'nottheonion', 'mentalhealth', 'China', 'evolution', 'sociology', 'technology', 'literature', 'occupywallstreet', 'florida', 'software', 'nasa', 'philosophy', 'Washington', 'Bad_Cop_No_Donut', 'law', 'TwoXChromosomes', 'socialism', 'WikiLeaks', 'Piracy', 'transhumanism', 'Feminism', 'sciencefiction', 'wikipedia', 'ainbow', 'misc', 'Louisiana', 'progressive', 'Pennsylvania', 'autism', 'solar', 'RenewableEnergy', 'Twitter', 'TrueAtheism', 'books', 'Foodforthought', 'cyberlaws', 'minnesota', 'geography', 'Drugs', 'privacy', 'economy'
+PRAW: 'immigration'
+
+Subreddit: /r/projectrunway
+Recommendit: 'spiders'
+PRAW: 'Outlander', 'AmericanHorrorStory', 'LiveFromNewYork', 'orangeisthenewblack', 'TrueBlood', 'girls'
+
+Subreddit: /r/eatcheapandhealthy
+Recommendit: '1200isplenty', 'MealPrepSunday', 'recipes', 'budgetfood', 'HealthyFood', 'foodhacks', 'tonightsdinner', 'slowcooking', 'fitmeals'
+PRAW: 'beerandpizza'
+
+Subreddit: /r/noisygifs
+Recommendit: 'StartledCats', 'instant_regret', 'combinedgifs', 'Unexpected', 'woahdude', 'gifs', 'loadingicon', 'Whatcouldgowrong'
+PRAW: 'musicgifstation'
+
+Subreddit: /r/freebies
+Recommendit: 'eFreebies', 'minnesota'
+PRAW: 'ProductTesting'
+
+Subreddit: /r/howtonotgiveafuck
+Recommendit: 'Buddhism', 'IWantToLearn', 'Meditation', 'ZenHabits', 'simpleliving'
+PRAW: 'NoFapWar'
+
+Subreddit: /r/borderlands
+Recommendit: 'Steam'
+PRAW: 'BorderlandsPreSequel', 'FFRecordKeeper', 'thebindingofisaac', 'Battleborn', 'SolForge', 'TerrariaDesign', 'dynastywarriors'
+
+Subreddit: /r/rickygervais
+Recommendit: 'BritishTV'
+PRAW: 'ronandfez', 'TACSdiscussion', 'AdamCarolla', 'louisck', 'opieandanthony', 'skinsTV', 'douglovesmovies', 'montypython', 'malcolminthemiddle', 'Frasier'
+
+Subreddit: /r/pwned
+Recommendit: 'techsupport', 'Piracy', 'security', 'Cyberpunk', 'SocialEngineering', 'conspiratard', 'POLITIC', 'ReverseEngineering', 'netsec', 'HailCorporate', 'software', 'csharp', 'Denver', 'TOR', 'robotics', 'finance', 'privacy', 'programming', 'UFOs', 'RTLSDR', 'gamedesign', 'lectures', 'archlinux', 'AskNetsec', 'hacking', 'crypto', 'Cyberpunk_Music', 'Paranormal', 'geopolitics', 'RetroFuturism', 'linux4noobs', 'homelab', 'DataHoarder', 'HowToHack', 'iiiiiiitttttttttttt', 'debian'
+PRAW: 'controllablewebcams'
+
+Subreddit: /r/pareidolia
+Recommendit: 'PerfectTiming'
+PRAW: 'princessdaisy', 'eyebombing', 'ShitCosmoSays'
+
+Subreddit: /r/randomactsofpizza
+Recommendit: 'Assistance'
+PRAW: 'sodapoppin', 'RandomActsOfGaming', 'GameTrade', 'estoration', 'randomactsofkindness', 'playitforward'
+
+Subreddit: /r/katawashoujo
+Recommendit: 'KillLaKill', 'anime_irl', 'roosterteeth', 'mylittlepony', 'GIRLSundPANZER', 'ledootgeneration', 'animenocontext', 'visualnovels', 'ShingekiNoKyojin', 'toradora', 'gangstaswithwaifus'
+PRAW: 'osugame'
+
+Subreddit: /r/deals
+Recommendit: 'ios', 'shutupandtakemymoney', 'DealsReddit'
+PRAW: 'Costco'
+
+Subreddit: /r/gaymers
+Recommendit: 'gay', 'lgbt', 'gaybros', 'GaymersGoneMild', 'ainbow'
+PRAW: 'rupaulsdragrace'
+
+Subreddit: /r/kpopslumberparty
+Recommendit: 'kpop', 'koreanvariety', 'korea', 'QUALITYanime', 'SNSD', 'exo', 'kpics'
+PRAW: 'KTymee'
+
+Subreddit: /r/self
+Recommendit: 'ideasfortheadmins'
+PRAW: 'unpopularopinion'
+
+Subreddit: /r/cigars
+Recommendit: 'LawSchool'
+PRAW: 'CigarMarket', 'cubancigars', 'pipetobaccomarket', 'pipemaking', 'JamesBond', 'DippingTobacco', 'Zippo'
+
+Subreddit: /r/raspberry_pi
+Recommendit: 'TOR', 'Chromecast', 'linux', 'electronics', 'cade', 'arduino', 'privacy', 'opensource', 'Ubuntu'
+PRAW: 'huelights'
+
+Subreddit: /r/galaxynote5
+Recommendit: 'windows', 'nexus6', 'cyanogenmod', 'androidcirclejerk', 'AndroidWear', 'AndroidQuestions', 'Michigan', 'ios', 'galaxynote4', 'Nexus5', 'xbox', 'nvidia', 'iphone', 'lgg4', 'GalaxyS6'
+PRAW: 'Android'
+
+Subreddit: /r/shittyideas
+Recommendit: 'shittyaskreddit', 'ShittyFanTheories', 'ShittyPickupLines', 'shittyaskscience', 'shittynosleep', 'MarkMyWords', 'Lightbulb', 'shittyama', 'AntiJokes'
+PRAW: 'IDecidetheContext'
+
+Subreddit: /r/foodhacks
+Recommendit: 'YouShouldKnow', 'StartledCats', 'EatCheapAndHealthy', 'recipes', 'budgetfood', 'HealthyFood', 'lifehacks', 'Infographics'
+PRAW: 'beerandpizza'
+
+Subreddit: /r/ucsd
+Recommendit: 'TrueAskReddit', 'geopolitics', 'indepthstories', 'MarkMyWords', 'OneY', 'learnpython', 'California', 'Louisiana', 'linux4noobs', 'learnprogramming', 'ipad', 'BitcoinMarkets', 'Steam', 'law', 'apple', 'infp', 'AskSocialScience', 'nba', 'CasualConversation', 'uofm', 'SanJoseSharks', 'photoshop', 'SocialEngineering', 'HomeworkHelp', 'AnimalsBeingBros'
+PRAW: 'UCI'
+
+Subreddit: /r/bmw
+Recommendit: 'cars', 'Honda', 'Autos', 'Nissan', 'carporn', 'UserCars', 'Stance', 'Volkswagen', 'Porsche', 'thewholecar'
+PRAW: 'clarkson'
+
+Subreddit: /r/arresteddevelopment
+Recommendit: 'PandR'
+PRAW: 'WetHotAmericanSummer', 'theleague', 'ANTM', 'jakeandamir'
+
+Subreddit: /r/classicalmusic
+Recommendit: 'musictheory', 'Frisson', 'piano', 'Jazz', 'books', 'WeAreTheMusicMakers'
+PRAW: 'DieAntwoord'
+
+Subreddit: /r/trailerparkboys
+Recommendit: 'IASIP'
+PRAW: 'mash', 'AquaJail'
+
+Subreddit: /r/socialmedia
+Recommendit: 'energy', 'Twitter', 'Wordpress', 'education', 'business', 'opensource', 'progressive', 'cogsci', 'gadgets', 'software', 'advertising', 'books', 'SEO', 'marketing'
+PRAW: 'TeamItUp'
+
+Subreddit: /r/animalrights
+Recommendit: 'uspolitics', 'offbeat', 'socialism', 'racism', 'labor', 'TrueReddit', 'occupywallstreet', 'California', 'nature', 'dogs', 'progressive', 'water', 'inthenews', 'EverythingScience', 'psychology', 'Health', 'privacy', 'RenewableEnergy', 'UpliftingNews', 'environment', 'worldpolitics', 'Louisiana', 'business', 'energy', 'evolution', 'economy', 'conspiracy', 'democrats', 'vegan', 'Pennsylvania', 'NorthCarolina', 'religion', 'vegetarian', 'education', 'politics'
+PRAW: 'veghumor'
+
+Subreddit: /r/welding
+Recommendit: 'reloading', 'Honda', 'somethingimade', 'MachinePorn', 'Perfectfit', 'projectcar', 'ThingsCutInHalfPorn', 'electronics', 'AskEngineers', 'grilling', 'arduino', 'Justrolledintotheshop', 'Blacksmith', 'Machinists', 'OSHA'
+PRAW: 'NewAgain'
+
+Subreddit: /r/billiards
+Recommendit: 'grilling'
+PRAW: 'Handball', 'Bowling', 'Darts', 'Curling', 'rollerderby', 'volleyball', 'Wake', 'lacrosse', 'Rowing', 'ProGolf'
+
+Subreddit: /r/rockets
+Recommendit: 'Jaguars', 'ussoccer', 'chicagobulls', 'Astros', 'texas', 'nbacirclejerk', 'NYKnicks', 'UniversityOfHouston', 'NBASpurs', 'SiliconValleyHBO', 'lakers', 'heat', 'Texans', 'warriors', 'torontoraptors', 'ripcity', 'houston', 'nba', 'nfl', 'MkeBucks', 'sixers', 'clevelandcavs', 'timberwolves', 'NBA2k'
+PRAW: 'UtahJazz'
+
+Subreddit: /r/firefighting
+Recommendit: 'trains', 'ems', 'policeporn', 'ProtectAndServe', 'ar15', 'Military'
+PRAW: 'Foamed'
+
+Subreddit: /r/lfg
+Recommendit: 'DnD', 'DungeonsAndDragons', 'rpg'
+PRAW: 'itmejp'
+
+Subreddit: /r/entertainment
+Recommendit: 'worldnews', 'history', 'sports', 'occupywallstreet', 'progressive', 'technology', 'humor', 'software', 'geek', 'wikipedia', 'television', 'movies', 'California', 'Marijuana', 'Economics', 'business', 'politics', 'offbeat', 'inthenews', 'women', 'environment', 'education', 'nature', 'psychology', 'ideasfortheadmins', 'Health', 'energy', 'scifi', 'PoliticalHumor', 'Foodforthought', 'gadgets', 'google', 'religion', 'Twitter', 'TrueReddit', 'news', 'worldpolitics', 'books', 'lists', 'law'
+PRAW: 'ghostbusters'
+
+Subreddit: /r/prettygirls
+Recommendit: 'haydenpanettiere', 'kaleycuoco', 'blakelively', 'kendalljenner', 'goddesses', 'arielwinter', 'CelebrityFeet', 'BeautifulFemales', 'SarahHyland', 'kateupton', 'LaurenCohan', 'Models', 'oliviawilde', 'AubreyPlaza', 'annakendrick', 'ScarlettJohansson', 'AlisonBrie', 'zooeydeschanel', 'Hot_Women_Gifs', 'BellaThorne', 'Kristen_Stewart', 'chloegracemoretz', 'HaileeSteinfeld', 'Mila_Kunis', 'EmiliaClarke', 'BarbaraPalvin', 'jennettemccurdy', 'AshleyBenson', 'JenniferLawrence', 'TaylorSwift', 'christinahendricks', 'happygirls', 'katyperry', 'randomsexygifs', 'TaylorSwiftPictures', 'celebritylegs', 'AshleyGreene', 'SelenaGomez', 'ArianaGrande', 'HistoryPorn', 'ArchitecturePorn', 'NatalieDormer', 'spam', 'cosplaygirls', 'alexandradaddario', 'interestingasfuck', 'starlets', 'EmmaStone', 'AlexisRen', 'mileycyrus', 'girls_smiling', 'Pinup', 'sexygirls', 'SFWRedheads', 'EmmaWatson', 'victoriajustice', 'ElleFanning', 'natalieportman', 'SkinnyWithAbs', 'NinaDobrev', 'AnimalPorn', 'shorthairedhotties', 'gentlemanbonersgifs', 'sophieturner', 'CelebGfys', 'diannaagron', 'Celebs', 'OldSchoolCool', 'gentlemanboners', 'FreckledGirls', 'AsianCuties', 'gifs', 'Faces', 'pics', 'cutegirlgifs'
+PRAW: 'chrissycostanza'
+
+Subreddit: /r/snes
+Recommendit: 'Gameboy', 'chronotrigger', 'JRPG', 'gamecollecting', 'nes', 'Megaman', 'rpg_gamers', 'TheCinemassacre', 'gamemusic', 'Metroid', 'chiptunes', 'Mario', 'casualnintendo', 'retrogaming', 'nintendo'
+PRAW: 'pinball'
+
+Subreddit: /r/4x4
+Recommendit: 'Autos', 'Toyota', 'Ford', 'subaru', 'motorcycles', 'Shitty_Car_Mods', 'Justrolledintotheshop', 'Volkswagen', 'Jeep', 'overlanding', 'battlewagon', 'Chevy', 'OSHA', 'Stance', 'UserCars', 'Trucks'
+PRAW: 'XTerra'
+
+Subreddit: /r/kitsunemimi
+Recommendit: 'KanMusu', 'anime_irl', 'steinsgate', 'ShingekiNoKyojin', 'thecutestidol', 'awwnime', 'animelegs', 'MadokaMagica', 'ZettaiRyouiki', 'Patchuu', 'LoveLive', 'chiptunes', 'hatsune', 'Animewallpaper', 'headpats', 'animegifs', 'touhou', 'KillLaKill', 'Oreimo', 'manga', 'AnimeFigures', 'fatestaynight', 'justneckbeardthings', 'Gunime', 'OneTrueBiribiri', 'kemonomimi', 'evangelion', 'homura', 'Tsunderes', 'Moescape', 'anime', 'amv', 'GIRLSundPANZER', 'Vocaloid', 'SchoolIdolFestival', 'RelayForReddit', 'kancolle', 'SCP', 'TwoDeeArt', 'futureporn', 'animenocontext'
+PRAW: 'RURISQUAD'
+
+Subreddit: /r/surfing
+Recommendit: 'combinedgifs'
+PRAW: 'Wake', 'Kiteboarding', 'Sup', 'paintball', 'NewSkaters'
+
+Subreddit: /r/intrusivethoughts
+Recommendit: 'MarkMyWords'
+PRAW: 'HealthAnxiety', 'blowit', 'IDecidetheContext', 'PointlessStories'
+
+Subreddit: /r/philosophy
+Recommendit: 'lectures', 'Physics', 'literature', 'science', 'humanism', 'education', 'askphilosophy', 'racism', 'robotics', 'TrueReddit', 'badphilosophy', 'Foodforthought', 'books', 'religion', 'transhumanism', 'psychology', 'EverythingScience', 'Anthropology', 'progressive', 'linguistics', 'offbeat', 'socialism', 'humor', 'QuotesPorn', 'wikipedia', 'writing', 'occupywallstreet', 'europe', 'Anarchism', 'math', 'environment', 'Stoicism', 'Economics', 'business', 'history', 'singularity', 'evolution', 'sociology', 'politics', 'Health', 'skeptic'
+PRAW: 'badEasternPhilosophy'
+
+Subreddit: /r/findareddit
+Recommendit: 'NoStupidQuestions', 'Lightbulb'
+PRAW: 'mistyfront'
+
+Subreddit: /r/dontstarve
+Recommendit: 'TheForest'
+PRAW: 'FORTnITE', 'LifeIsFeudal', 'thebindingofisaac', 'unturned', 'ClickerHeroes', 'NuclearThrone', 'Awesomenauts', 'ARK', 'strandeddeep', 'thesimscc'
+
+Subreddit: /r/beardporn
+Recommendit: 'catpictures', 'beards'
+PRAW: 'Shave_Bazaar'
+
+Subreddit: /r/everymanshouldknow
+Recommendit: 'shutupandtakemymoney', 'YouShouldKnow'
+PRAW: 'GetSuave'
+
+Subreddit: /r/trucks
+Recommendit: 'Dodge', 'Chevy', 'Volkswagen', 'Audi', 'Autos', 'carporn', 'UserCars', 'Toyota', 'cars', '4x4', 'AwesomeCarMods', 'overlanding', 'Ford', 'Stance', 'OSHA', 'Shitty_Car_Mods', 'classiccars'
+PRAW: 'Trucking'
+
+Subreddit: /r/bodypaint
+Recommendit: 'PrettyGirls', 'indiangirls', 'TheWayWeWere', 'Pinup', 'blakelively', 'punk', 'BirdsBeingDicks', 'sexygirls', 'VolleyballGirls', 'Animals', 'Hot_Women_Gifs', 'HistoryPorn', 'OldSchoolCool', 'Funnypics', 'happygirls', 'PerfectTiming', 'quotes', 'OldSchoolCoolMusic', 'AbandonedPorn', 'Weird', 'celeb_redheads', 'memes', 'cosplayers', 'progressive', 'Neverwinter', 'racism', 'AnimalsBeingBros', 'AsianCuties', 'streetart', 'TrainPorn', 'shorthairedhotties', 'ArchitecturePorn', 'BodyAcceptance', 'MapPorn', 'cosplaygirls', 'Damnthatsinteresting', 'ArtPorn', 'TOR', 'Austria', 'NatureGifs', 'WTF', 'SarahHyland', 'offbeat', 'drunk', 'randomsexygifs', 'nonononoyes', 'nope', 'gif', 'PoliticalHumor', 'facepalm', 'NewsOfTheStupid', 'lists', 'spaceflight', 'natalieportman', 'Graffiti', 'nextdoorasians', 'StonerPhilosophy', 'Wellthatsucks', 'SFWRedheads', 'UpliftingNews', 'woodworking', 'ironmaiden', 'cosplay', 'mileycyrus', 'Calligraphy', 'FreckledGirls', 'community', 'AnythingGoesPics', 'nyc', 'Bento', 'girls_smiling', 'AshleyGreene', 'eyes', 'creepy', 'architecture'
+PRAW: 'crossedlegs'
+
+Subreddit: /r/askvet
+Recommendit: 'childfree'
+PRAW: 'AskAstrologers', 'AskHR', 'AskProgramming', 'AskAnAmerican', 'AskLE', 'askgaybros', 'AskMarketing', 'Ask_Politics'
+
+Subreddit: /r/menslib
+Recommendit: 'AsABlackMan', 'CrazyIdeas', 'racism', 'againstmensrights', 'circlebroke', 'goldredditsays', 'BritishTV', 'PurplePillDebate', 'FeMRADebates', 'TrollYChromosome', 'YouShouldKnow', 'TumblrAtRest', 'badphilosophy', 'lostgeneration', 'AgainstGamerGate', 'TumblrCirclejerk', 'SubredditDramaDrama', 'botsrights', 'TrollXChromosomes', 'MensRights', 'AskFeminists', 'worstof', 'socialism', 'StopTouchingMe', 'notcirclejerk', 'jellybeantoes', 'BodyAcceptance', 'whatstheword', 'circlebroke2', 'OneY', 'TheBluePill', 'GamerGhazi', 'AskTrollX', 'FemmeThoughts', 'PussyPass', 'ABCDesis', 'SubredditDrama', 'TiADiscussion', 'AskWomen', 'PanicHistory', 'Negareddit', 'MetaSubredditDrama', 'law', 'Freethought'
+PRAW: 'SlutJustice'
+
+Subreddit: /r/asktrollx
+Recommendit: 'TrollXGirlGamers', 'bigboobproblems', 'FemmeThoughts', 'TrollXFitness', 'catbellies', 'TrollXChromosomes', 'Awwducational', 'TheGirlSurvivalGuide', 'childfree', 'CraftyTrolls', 'TrollMUA'
+PRAW: 'justtrollxthings'
+
+Subreddit: /r/fantheories
+Recommendit: 'ShittyFanTheories', 'MarkMyWords', 'AskScienceFiction'
+PRAW: 'Parahumans'
+
+Subreddit: /r/askengineers
+Recommendit: 'engineering'
+PRAW: 'AskAstrologers', 'AskDoctorSmeeee'
+
+Subreddit: /r/selfdrivingcars
+Recommendit: 'newjersey', 'StockMarket', 'business', 'ZenHabits', 'lastweektonight', 'cordcutters', 'lectures', 'ArtisanVideos', 'robotics', 'undelete', 'BasicIncome', 'tasker', 'javascript', 'electricvehicles', 'technology', 'energy', 'nottheonion', 'chrome', 'privacy', 'Miami', 'HealthyFood', 'retiredgif', 'bestofTLDR', 'michaelbaygifs', 'vegetarian', 'linux4noobs', 'virtualreality', 'Enhancement', 'google', 'EverythingScience', 'oregon', 'veganrecipes', 'lostgeneration', 'solar', 'politics', 'Frugal', 'Automate', 'worldnews', 'Ubuntu', 'singularity', 'Austin', 'linux', 'evolution', 'gadgets', 'freelance', 'stocks', 'RenewableEnergy', 'chromeos', 'inthenews', 'breathinginformation', 'malelivingspace', 'FloridaMan', 'raspberry_pi', 'Norway', 'SweatyPalms', 'Economics', 'teslamotors', 'Iceland', 'Python', 'education', 'cscareerquestions', 'news', 'mealtimevideos', 'economy', 'findareddit', 'medicine', 'etymology', 'tech', 'nonononoyes', 'windows', 'firefox', 'RetroFuturism', 'Foodforthought', 'Pennsylvania', 'ios', 'arduino', 'AnythingGoesNews', 'elonmusk', 'Chromecast', 'books', 'Voat', 'jobs', 'Hawaii', 'Fitness', 'italy', 'Futurology', 'WeirdWheels', 'Health'
+PRAW: 'bioengineering'
+
+Subreddit: /r/nootropics
+Recommendit: 'Supplements', 'Drugs', 'RenewableEnergy', 'AnythingGoesNews', 'DMT', 'AdvancedFitness', 'solar', 'StackAdvice', 'collapse', 'TOR', 'kratom', 'weightroom', 'socialskills', 'HPMOR', 'occupywallstreet', 'AskScienceDiscussion', 'MDMA', 'Psychonaut', 'Economics', 'nutrition', 'transhumanism', 'DrugNerds', 'singularity', 'JoeRogan'
+PRAW: 'depressionregimens'
+
+Subreddit: /r/postrock
+Recommendit: 'AlbumArtPorn'
+PRAW: 'mathrock', 'BetweenTheBuriedAndMe', 'fantanoforever'
+
+Subreddit: /r/steamdeals
+Recommendit: 'Steam'
+PRAW: 'toys'
+
+Subreddit: /r/illegaltorrents
+Recommendit: 'Piracy'
+PRAW: 'thepiratebay', 'OpenSignups', 'seedboxes'
+
+Subreddit: /r/nerf
+Recommendit: 'battlefield3'
+PRAW: 'lego', 'boardgames', 'cosplay', 'StarWars', 'geek', 'comics', 'Unexpected', 'bestof', 'mildlyinteresting', 'videos'
+
+Subreddit: /r/infographics
+Recommendit: 'dataisbeautiful', 'wikipedia', 'television', 'awesome', 'spaceporn', 'Unexpected', 'educationalgifs', 'CityPorn', 'PoliticalHumor', 'HistoryPorn', 'howto', 'QuotesPorn', 'pics', 'Damnthatsinteresting', 'DesignPorn', 'ArchitecturePorn', 'MapPorn', 'space', 'Futurology', 'AbandonedPorn', 'InternetIsBeautiful', 'interestingasfuck', 'gifs', 'MachinePorn', 'illusionporn'
+PRAW: 'dataisugly'
+
+Subreddit: /r/glutenfree
+Recommendit: 'news'
+PRAW: 'Celiac'
+
+Subreddit: /r/pipetobacco
+Recommendit: 'whiskey'
+PRAW: 'pipetobaccomarket', 'pipemaking', 'CigarMarket', 'hookah', 'Tobacco', 'JamesBond', 'cigars', 'DippingTobacco', 'cubancigars', 'Zippo'
+
+Subreddit: /r/adelaide
+Recommendit: 'AFL', 'australia', 'Aleague', 'AustralianPolitics', 'AusMemes'
+PRAW: 'circlejerkaustralia'
+
+Subreddit: /r/gainit
+Recommendit: 'swoleacceptance', 'homegym', 'Brogress', 'Fitness'
+PRAW: 'startbodyweight'
+
+Subreddit: /r/christmas
+Recommendit: 'halloween'
+PRAW: 'toys', 'gameswap'
+
+Subreddit: /r/cyberpunk_music
+Recommendit: 'transhumanism', 'chiptunes', 'AlbumArtPorn', 'Cyberpunk', 'outrun', 'Vaporwave'
+PRAW: 'NuDisco'
+
+Subreddit: /r/tinder
+Recommendit: 'gameofthrones'
+PRAW: 'textfriends', 'meetup', 'r4rplus', 'snapchat', 'OkCupid', 'adultery', 'tall'
+
+Subreddit: /r/scientology
+Recommendit: 'progressive', 'florida', 'Foodforthought', 'conspiratard', 'robotics', 'Health', 'biology', 'worldpolitics', 'psychology', 'women', 'skeptic', 'education', 'math', 'humor', 'politics', 'economy', 'advertising', 'writing', 'gadgets', 'religion', 'nature', 'scifi', 'chrome', 'Frugal', 'Economics', 'literature', 'occupywallstreet', 'UpliftingNews', 'PoliticalHumor', 'NewsOfTheStupid', 'Archaeology', 'opensource', 'climate', 'wikipedia', 'urbanplanning', 'environment', 'software', 'Twitter', 'Bad_Cop_No_Donut', 'energy', 'entertainment', 'business', 'philosophy', 'AmericanPolitics', 'history', 'GunsAreCool'
+PRAW: 'bahai'
+
+Subreddit: /r/tifu
+Recommendit: 'photoshopbattles'
+PRAW: 'unpopularopinion', 'retiredusername', 'TraditionalCurses'
+
+Subreddit: /r/lalist
+Recommendit: 'orangecounty', 'SoCalR4R', 'LosAngeles'
+PRAW: 'USC'
+
+Subreddit: /r/nextdoorasians
+Recommendit: 'realasians', 'kpics', 'VolleyballGirls', 'GirlsPlayingSports', 'SkinnyWithAbs', 'PrettyGirls', 'geekygirls', 'Documentaries', 'WTF', 'frugalmalefashion', 'sexygirls', 'hardbodies', 'AsianLadyboners', 'cutekorean', 'bodypaint', 'hometheater', 'gaming', 'randomsexygifs', 'AsianCuties', 'Hot_Women_Gifs', 'kateupton'
+PRAW: 'phi_tran'
+
+Subreddit: /r/fuckyouimashark
+Recommendit: 'bitchimabus'
+PRAW: 'deadbabyjokes', 'ooerintensifies', 'unlimitedbreadsticks', 'gentlemangabers', 'pepethefrog', 'Teleshits', 'nonose', 'antibaw', 'notinteresting', 'TheStopGirl'
+
+Subreddit: /r/cyberlaws
+Recommendit: 'occupywallstreet', 'software', 'energy', 'Foodforthought', 'labor', 'altnewz', 'crypto', 'hardware', 'chrome', 'snowden', 'technology', 'California', 'Ubuntu', 'worldpolitics', 'offbeat', 'TOR', 'worldnews', 'politics', 'AnythingGoesNews', 'microsoft', 'entertainment', 'EndlessWar', 'women', 'Libertarian', 'TrueReddit', 'inthenews', 'restorethefourth', 'WikiLeaks', 'TheoryOfReddit', 'Health', 'Bad_Cop_No_Donut', 'windows', 'history', 'evolutionReddit', 'programming', 'economy', 'privacy', 'torrents', 'skeptic', 'firefox', 'environment', 'netsec', 'psychology', 'education', 'lectures', 'linux', 'business', 'religion', 'progressive', 'scifi', 'science', 'Marijuana', 'NewsOfTheStupid', 'humor', 'cogsci', 'biology', 'Economics', 'books', 'UpliftingNews', 'worldevents', 'Freethought', 'onions', 'Piracy', 'racism', 'law', 'opensource'
+PRAW: 'LSAT'
+
+Subreddit: /r/automate
+Recommendit: 'gadgets', 'shittyrobots', 'DarkFuturology', 'RenewableEnergy', 'Documentaries', 'kickstarter', 'DepthHub', 'elonmusk', 'Futurology', 'SelfDrivingCars', 'politics', 'artificial', 'solar', 'virtualreality', 'economy', 'lectures', 'electricvehicles', 'robotics', 'Rad_Decentralization', 'lostgeneration', 'singularity', 'technology', 'ArtisanVideos', 'collapse', 'teslamotors', 'worldpolitics', 'BasicIncome', 'Economics', 'transhumanism', 'lastweektonight', 'InfrastructurePorn', 'Cyberpunk'
+PRAW: 'longevity'
+
+Subreddit: /r/sales
+Recommendit: 'RealEstate'
+PRAW: 'VetTech', 'ecommerce', 'TeamItUp', 'MBA', 'CareerSuccess'
+
+Subreddit: /r/propagandaposters
+Recommendit: 'MilitaryPorn', 'DepthHub', 'MapPorn', 'HistoryPorn', 'vexillology', 'history', 'socialism', 'RetroFuturism', 'RedditThroughHistory', 'europe', 'HumanPorn', 'Documentaries'
+PRAW: 'NoSillySuffix'
+
+Subreddit: /r/murica
+Recommendit: 'Military', 'space', 'interestingasfuck', 'instant_regret', 'WTF', 'gifs', 'holdmybeer', 'mildlyinfuriating'
+PRAW: 'YouSeeComrade'
+
+Subreddit: /r/gifsound
+Recommendit: 'noisygifs'
+PRAW: 'musicgifstation'
+
+Subreddit: /r/delightfullychubby
+Recommendit: 'CatsInSinks', 'catbellies', 'Floof', 'jellybeantoes', 'AnimalsBeingJerks', 'AnimalsBeingDerps', 'StartledCats', 'tuckedinkitties', 'catpictures', 'StopTouchingMe', 'Blep', 'Catloaf', 'boop', 'cats'
+PRAW: 'trashpandas'
+
+Subreddit: /r/business
+Recommendit: 'Washington', 'nature', 'psychology', 'worldpolitics', 'lostgeneration', 'Freethought', 'EverythingScience', 'sports', 'space', 'programming', 'snowden', 'Piracy', 'scifi', 'philosophy', 'Marijuana', 'Health', 'RenewableEnergy', 'evolution', 'Liberal', 'opensource', 'nottheonion', 'NorthCarolina', 'atheism', 'climate', 'wikipedia', 'science', 'gadgets', 'Bad_Cop_No_Donut', 'poland', 'germany', 'finance', 'Music', 'hacking', 'Drugs', 'geek', 'labor', 'WikiLeaks', 'TrueReddit', 'solar', 'law', 'Foodforthought', 'inthenews', 'progressive', 'UpliftingNews', 'howto', 'environment', 'history', 'Archaeology', 'democrats', 'technology', 'Anthropology', 'Colorado', 'socialmedia', 'education', 'economy', 'Pennsylvania', 'advertising', 'Twitter', 'arizona', 'florida', 'humor', 'GunsAreCool', 'skeptic', 'politics', 'robotics', 'Futurology', 'AnythingGoesNews', 'women', 'privacy', 'ios', 'microsoft', 'linguistics', 'entertainment', 'cyberlaws', 'Economics', 'energy', 'worldnews', 'AmericanPolitics', 'TwoXChromosomes', 'architecture', 'racism', 'collapse', 'biology', 'offbeat', 'chrome', 'software', 'Physics', 'occupywallstreet', 'California', 'google', 'highereducation', 'Ohio', 'cogsci', 'canada', 'Feminism', 'defaultgems', 'nasa', 'news', 'maryland', 'PoliticalHumor', 'windows', 'tech', 'religion', 'television', 'Libertarian', 'books', 'uspolitics', 'NewsOfTheWeird'
+PRAW: 'BusinessHub'
+
+Subreddit: /r/comeonandslam
+Recommendit: 'thomasthedankengine'
+PRAW: 'NavySealCopypasta', 'lwgcirclejerk', 'yee', 'thank_mr_skeltal', 'JustStemThings', 'dank_meme', 'ayylmao', '2spooky4me', 'dankmemes', 'TheStopGirl'
+
+Subreddit: /r/stopsmoking
+Recommendit: 'happy'
+PRAW: 'StopGaming', 'Magic'
+
+Subreddit: /r/drexel
+Recommendit: 'philadelphia', 'askgaybros', 'wine', 'combinedgifs', 'mfw', 'youtubehaiku', 'eagles', 'mechanical_gifs', 'noisygifs', 'PussyPass', 'BuyItForLife', 'simpsonsdidit', 'HeavySeas', 'ProgrammerHumor', 'buildapc', 'KarmaConspiracy', 'minimalism', 'CrohnsDisease', 'RealEstate', 'cringe', 'StarWars', 'breakingbad', 'cowboys'
+PRAW: 'PennStateUniversity'
+
+Subreddit: /r/uofm
+Recommendit: 'CollegeBasketball', 'Detroit', 'DetroitRedWings', 'motorcitykitties', 'Washington', 'Michigan', 'MichiganWolverines'
+PRAW: 'UIUC'
+
+Subreddit: /r/nasa
+Recommendit: 'evolution', 'microsoft', 'Piracy', 'robotics', 'democrats', 'Health', 'privacy', 'RenewableEnergy', 'religion', 'Liberal', 'Twitter', 'environment', 'PoliticalHumor', 'trains', 'Archaeology', 'windows', 'hacking', 'spaceporn', 'Astronomy', 'economy', 'Futurology', 'books', 'worldnews', 'sciencefiction', 'Pennsylvania', 'solar', 'spaceflight', 'EverythingScience', 'education', 'progressive', 'psychology', 'offbeat', 'California', 'scifi', 'space', 'nature', 'Marijuana', 'business', 'russia', 'Physics'
+PRAW: 'EmDrive'
+
+Subreddit: /r/alternativeart
+Recommendit: 'superman', 'StarWars', 'Unexpected', 'SpecArt', 'scifi', 'ImaginaryBattlefields', 'OldSchoolCool', 'Heavymind', 'ImaginaryCityscapes', 'Cyberpunk', 'ImaginaryTechnology', 'ImaginaryCharacters', 'xmen', 'ImaginaryLandscapes', 'Design', 'charactercrossovers', 'comicbooks', 'ImaginaryStarscapes', 'zelda', 'Marvel', 'HarleyQuinn', 'batman', 'AnimalsBeingBros', 'Spiderman', 'perfectloops', 'deadpool', 'gameofthrones', 'steampunk', 'ImaginaryDragons', 'ghostbusters', 'wallpaper', 'ImaginaryMonsters', 'MoviePosterPorn', 'cosplay', 'gifs', 'calvinandhobbes', 'masseffect', 'RetroFuturism', 'ImaginaryJedi', 'ShingekiNoKyojin', 'creepy', 'FinalFantasy', 'Fantasy', 'pokemon', 'illusionporn', 'QuotesPorn', 'Avengers', 'DesignPorn', 'InternetIsBeautiful', 'adventuretime', 'woahdude', 'Metroid', 'WTF', 'ImaginaryStarships', 'comicbookart', 'harrypotter', 'ImaginaryWesteros', 'spaceporn', 'lotr'
+PRAW: 'unstirredpaint'
+
+Subreddit: /r/learnpython
+Recommendit: 'linux4noobs', 'vim', 'Python', 'linuxquestions', 'lectures', 'learnprogramming', 'dataisbeautiful'
+PRAW: 'csshelp'
+
+Subreddit: /r/flashlight
+Recommendit: 'BuyItForLife', 'castiron', 'Glocks', 'Knife_Swap', 'computertechs', 'ar15', 'gundeals', 'EDC'
+PRAW: 'KnifeDeals'
+
+Subreddit: /r/enhancement
+Recommendit: 'newreddits'
+PRAW: 'RESissues', 'themes', 'goldbenefits', 'RelayForReddit', 'ShadowBan'
+
+Subreddit: /r/mindcrack
+Recommendit: 'BuffaloWizards', 'mindcrackcirclejerk', 'Minecraft', 'Yogscast', 'minecraftsuggestions', 'feedthebeast', 'LordsOfMinecraft', 'DaftPunk', 'CubeWorld'
+PRAW: 'botania'
+
+Subreddit: /r/iosgaming
+Recommendit: 'chrome', 'JRPG', 'windows', 'macgaming', 'AppHookup', 'ios', 'iphone', 'ipad', 'AndroidGaming', 'AlienBlue'
+PRAW: 'FFRecordKeeper'
+
+Subreddit: /r/worldbuilding
+Recommendit: 'imaginarymaps', 'conlangs', 'rpg'
+PRAW: 'Parahumans'
+
+Subreddit: /r/californiaforsanders
+Recommendit: 'energy', 'teslamotors', 'millionairemakers', 'ElderScrolls', 'AZCardinals', 'California', 'medicine', 'AmericanPolitics', 'AnythingGoesNews', 'happycrowds', 'spacex', 'Ask_Politics', 'BasicIncome', 'nfffffffluuuuuuuuuuuu', 'elonmusk', 'lostgeneration', 'NewYorkForSanders', 'oakland', 'fresno', 'neopets', 'StudentsforSanders', 'Liberal', 'labor', 'robotics', 'cancer', 'comiccon', 'progressive', 'newreddits', 'SweatyPalms', 'themartian', 'photoshopbattles', 'SandersForPresident', 'TheOnion', 'Blackout2015', 'mealtimevideos'
+PRAW: 'Illinois4Sanders'
+
+Subreddit: /r/bpd
+Recommendit: 'NoContract'
+PRAW: 'aspergirls'
+
+Subreddit: /r/didthney
+Recommendit: 'TheDepthsBelow', 'baconreader', 'Neverwinter', 'whowouldwin', 'Punny', 'Cyberpunk', 'MedievalHistory', 'SCP', 'photoshopbattles', 'punk', 'FanTheories', 'mildlyinfuriating', 'thebutton', 'Filmmakers', 'sad', 'keming', 'nintendo', 'psych', 'KnightsOfPineapple', 'shittyrobots', 'BabyCorgis', 'LadyGaga', 'corgi', 'GifSound', 'antibaw', '60fpsGamingGifs', 'blop', 'Pareidolia', 'RedvsBlue', 'Ghostbc', 'gifextra', 'perfectloops', 'deepdream', 'InvisibleBicycles', 'Cyberbooty', 'audioengineering', 'DepthHub', 'BloodGulchRP', 'ManyATrueNerd', 'tarantinogifs'
+PRAW: 'wheredidthesodago'
+
+Subreddit: /r/popping
+Recommendit: 'oddlysatisfying'
+PRAW: 'peeling', 'deadbabyjokes', 'ooerintensifies', 'STD'
+
+Subreddit: /r/futurology
+Recommendit: 'dataisbeautiful', 'RenewableEnergy', 'climate', 'space', 'Health', 'europe', 'InternetIsBeautiful', 'transhumanism', 'singularity', 'educationalgifs', 'linguistics', 'Automate', 'robotics', 'microsoft', 'evolution', 'BasicIncome', 'news', 'gadgets', 'energy', 'business', 'Astronomy', 'worldnews', 'tech', 'HealthyFood', 'woahdude', 'technology', 'books', 'Cyberpunk', 'politics', 'chrome', 'electricvehicles', 'nasa', 'science', 'UpliftingNews', 'education', 'EverythingScience', 'Foodforthought', 'gifs', 'solar', 'Economics', 'Infographics', 'RetroFuturism', 'collapse', 'SelfDrivingCars', 'TrueReddit', 'artificial', 'google', 'lostgeneration', 'lectures', 'Drugs', 'environment', 'psychology'
+PRAW: 'longevity'
+
+Subreddit: /r/debateanatheist
+Recommendit: 'TrueAtheism', 'askphilosophy', 'YouShouldKnow', 'changemyview', 'exchristian', 'DebateAChristian', 'humanism', 'DebateReligion'
+PRAW: 'shia'
+
+Subreddit: /r/bipolarreddit
+Recommendit: 'bipolar'
+PRAW: 'schizophrenia', 'aspergirls', 'SleepApnea'
+
+Subreddit: /r/digimon
+Recommendit: 'Megaten', 'fairytail', 'JRPG', 'SonicTheHedgehog', 'ShingekiNoKyojin', 'FinalFantasy', 'nintendo', 'pokemon', 'KingdomHearts', 'KillLaKill', 'FullmetalAlchemist', 'Metroid', 'charactercrossovers', 'Megaman'
+PRAW: 'dragonball'
+
+Subreddit: /r/randomactsofgaming
+Recommendit: 'GiftofGames'
+PRAW: 'playitforward', 'GameTrade'
+
+Subreddit: /r/chihuahua
+Recommendit: 'blop', 'AnimalsBeingDerps', '1200isplenty', 'books', 'gardening', 'tonightsdinner', 'TwoXChromosomes'
+PRAW: 'MiniaturePinscher'
+
+Subreddit: /r/paleo
+Recommendit: 'crossfit'
+PRAW: 'Celiac'
+
+Subreddit: /r/nycbike
+Recommendit: 'Velo', 'classicalmusic', 'bicycling', 'AskNYC', 'NYKnicks', 'Judaism', 'FixedGearBicycle', 'applehelp', 'iphone', 'Brooklyn', 'SocialEngineering', 'nyc'
+PRAW: 'nyu'
+
+Subreddit: /r/drunkvapes
+Recommendit: 'ecigclassifieds', 'Stretched', 'VapePorn', 'ecig_vendors', 'Vaping101', 'electronic_cigarette', 'Coilporn'
+PRAW: 'cloudmaker'
+
+Subreddit: /r/mildlypenis
+Recommendit: 'StartledCats'
+PRAW: 'mildlyvagina', 'MisleadingPuddles', 'futureworldleaders', 'K_gifs', 'LeftHanging', 'breathinginformation', 'awwschwitz', 'TheOnion', 'DickButt', 'InvisibleBicycles'
+
+Subreddit: /r/askhistorians
+Recommendit: 'AskAnthropology', 'badhistory', 'AskSocialScience', 'changemyview'
+PRAW: 'TheChurchOfRogers'
+
+Subreddit: /r/coilporn
+Recommendit: 'Vaping', 'electronic_cigarette', 'VapePorn', 'Vaping101', 'drunkvapes', 'ecig_vendors', 'ecigclassifieds', 'subaru'
+PRAW: 'cloudmaker'
+
+Subreddit: /r/wedding
+Recommendit: 'bigboobproblems', 'knitting', 'MakeupAddiction', 'weddingplanning'
+PRAW: 'weddingswap'
+
+Subreddit: /r/sto
+Recommendit: 'DaystromInstitute', 'scifi', 'Stargate'
+PRAW: 'stobuilds'
+
+Subreddit: /r/woahtunes
+Recommendit: 'Wellthatsucks', 'educationalgifs', 'simpleliving', 'DMT', 'loadingicon', 'me_irl', 'HadToHurt', 'RetroFuturism', 'cowboybebop', 'illusionporn', 'Psychonaut', 'BeAmazed', 'ThisIsOurMusic', 'PeopleBeingJerks', 'woahdude', 'StonerPhilosophy', 'LSD', 'spicy', 'mealtimevideos', 'brooklynninenine', 'PlayItAgainSam', 'NotTimAndEric'
+PRAW: 'WoahTube'
+
+Subreddit: /r/asianparentstories
+Recommendit: 'lostgeneration'
+PRAW: 'asianamerican'
+
+Subreddit: /r/beatles
+Recommendit: 'pinkfloyd'
+PRAW: 'bobdylan', 'ledzeppelin', 'led_zeppelin', 'queen', 'oasis', 'ACDC', 'macdemarco', 'DMB', 'TheAvettBrothers', 'mumfordandsons'
+
+Subreddit: /r/autodetailing
+Recommendit: 'subaru', 'UserCars', 'Stance', 'Autos', 'Toyota', 'saab', 'Honda', 'S2000', 'Volkswagen'
+PRAW: 'SubaruForester'
+
+Subreddit: /r/jazz
+Recommendit: 'musictheory', 'blues', 'Bass', 'classicalmusic', 'drums'
+PRAW: 'BetweenTheBuriedAndMe'
+
+Subreddit: /r/wearethemusicmakers
+Recommendit: 'MusicBattlestations', 'Bass', 'DJs', 'audioengineering', 'edmproduction'
+PRAW: 'TheFence'
+
+Subreddit: /r/disneyland
+Recommendit: 'disney', 'angelsbaseball', 'VintageDisney', 'LosAngeles', 'orangecounty'
+PRAW: 'DisneyPinTrading'
+
+Subreddit: /r/somethingimade
+Recommendit: 'crafts', 'DIY', 'woodworking'
+PRAW: 'modeltrains'
+
+Subreddit: /r/whatsthisplant
+Recommendit: 'whatsthisbird', 'herpetology', 'gardening', 'whatsthisbug'
+PRAW: 'IndianCountry'
+
+Subreddit: /r/exoticspotting
+Recommendit: 'F1Porn', 'cars', 'Shitty_Car_Mods', 'TopGear', 'Porsche', 'spotted', 'BMW', 'Stance', 'classiccars', 'mazda', 'Autos', 'carporn'
+PRAW: 'clarkson'
+
+Subreddit: /r/socalr4r
+Recommendit: 'California', 'orangecounty', 'ShouldIbuythisgame', 'InlandEmpire', 'whatcarshouldIbuy', 'LAlist', 'FierceFlow', 'RandomKindness', 'ArtistLounge'
+PRAW: 'r4rasian'
+
+Subreddit: /r/harrypotter
+Recommendit: 'Punny', 'alternativeart', 'StarWars', 'funny', 'disney', 'happy', 'batman', 'tumblr', 'Sherlock', 'lotr', 'pokemon', 'woahdude', 'Spiderman', 'Unexpected', 'doctorwho', 'photoshopbattles', 'Frisson', 'catbellies'
+PRAW: 'Eragon'
+
+Subreddit: /r/transtimelines
+Recommendit: 'crossdressing', 'TiADiscussion', 'asktransgender', 'CasualConversation', 'TransSpace', 'lgbtaww', 'ftm', 'buffy', 'ainbow', 'actuallesbians', 'asexuality', 'traaaaaaannnnnnnnnns', 'transpositive', 'MtF', 'lgbt', 'transgender', 'genderqueer', 'transpassing', 'explainlikeimfive', 'transgendercirclejerk', 'crochet'
+PRAW: 'transvoice'
+
+Subreddit: /r/losangeles
+Recommendit: 'California', 'LAlist', 'orangecounty'
+PRAW: 'AskLosAngeles'
+
+Subreddit: /r/explainlikeiama
+Recommendit: 'CrazyIdeas'
+PRAW: 'bestofTLDR', 'explainlikedrcox'
+
+Subreddit: /r/chess
+Recommendit: 'math'
+PRAW: 'AnarchyChess', 'soylent'
+
+Subreddit: /r/timetolegalize
+Recommendit: 'politics', 'Marijuana', 'occupywallstreet', 'restorethefourth', 'arizona', 'Atlanta', 'Drugs', 'socialism', 'Economics', 'economy', 'washingtondc', 'RenewableEnergy', 'progressive', 'evolutionReddit', 'news', 'nottheonion', 'Louisiana', 'Kentucky', 'StandUpComedy', 'newhampshire', 'maryland', 'Pennsylvania', 'Colorado', 'Iowa', 'solar', 'Piracy', 'florida', 'worldpolitics', 'DescentIntoTyranny', 'AmericanPolitics', 'inthenews', 'JoeRogan', 'California', 'democrats', 'texas', 'NorthCarolina', 'uspolitics', 'Health', 'AnythingGoesNews', 'cannabis', 'oregon', 'southcarolina', 'environment', 'TOR', 'privacy', 'Libertarian', 'EndlessWar', 'WikiLeaks', 'Anarcho_Capitalism', 'eldertrees', 'education', 'worldnews', 'Connecticut', 'business', 'Indiana', 'spotify', 'Psychonaut', 'psychology', 'conspiracy', 'RhodeIsland', 'trees', 'cyberlaws', 'Minneapolis'
+PRAW: 'lbregs'
+
+Subreddit: /r/dhmtb
+Recommendit: 'Motocross', 'reggae', 'subaru', 'ballpython', 'hardwareswap', 'Volkswagen', 'StonerEngineering', 'MTB'
+PRAW: 'bikemessengers'
+
+Subreddit: /r/gonenatural
+Recommendit: 'PastAndPresentPics', 'firstimpression', 'BeautyDiagrams', 'bigboobproblems', 'catpictures', 'RandomActsofMakeup', 'piercing', 'Faces'
+PRAW: 'amihot'
+
+Subreddit: /r/boardgames
+Recommendit: 'books'
+PRAW: 'dominion', 'localmultiplayergames', 'Nerf', 'computerwargames', 'geekandsundry', 'ImperialAssaultTMG', 'ageofsigmar', 'SolForge', 'cahideas', 'dicemasters'
+
+Subreddit: /r/shitpost
+Recommendit: 'JustUnsubbed'
+PRAW: 'Badfaketexts', 'IDecidetheContext', 'BannedFrom4chan', 'forwardsfromhitler', 'titlegore', 'killthosewhodisagree', 'AMADisasters'
+
+Subreddit: /r/1911
+Recommendit: 'Glocks', 'gundeals', 'longrange', 'ar15', 'Gunsforsale', 'ak47', 'GunPorn', 'reloading', 'guns'
+PRAW: 'FindTheSniper'
+
+Subreddit: /r/morbidquestions
+Recommendit: 'wowthissubexists'
+PRAW: 'creepyencounters', 'ultraviolent', 'WithoutATrace', 'Humanoidencounters', 'UnsolvedMurders', 'UnexplainedPhotos'
+
+Subreddit: /r/sailing
+Recommendit: 'HeavySeas'
+PRAW: 'IndianCountry', 'boating'
+
+Subreddit: /r/pkmntcg
+Recommendit: 'ptcgo', 'zelda', 'wtfstockphotos', 'earthbound', 'pokemon', 'pkmntcgcollections', 'AnimalCrossing', 'PokemonShuffle', 'Megaman'
+PRAW: 'baduk'
+
+Subreddit: /r/germanshepherds
+Recommendit: 'ProtectAndServe', 'gardening', 'Military', 'puppies', '1911'
+PRAW: 'MiniaturePinscher'
+
+Subreddit: /r/ggggg
+Recommendit: 'CrappyDesign'
+PRAW: 'ooerintensifies', 'gggg', 'deadbabyjokes', 'gentlemangabers', 'pepethefrog', 'unlimitedbreadsticks', 'Ooer', 'FuckYouImAShark', 'TheStopGirl', 'TreesSuckingOnThings'
+
+Subreddit: /r/compsci
+Recommendit: 'firefox', 'linux', 'robotics', 'linguistics', 'scifi', 'Foodforthought', 'sociology', 'java', 'webdev', 'privacy', 'haskell', 'Anthropology', 'science', 'artificial', 'TrueReddit', 'math', 'javascript', 'chrome', 'cogsci', 'datasets', 'statistics', 'education', 'MachineLearning', 'coding', 'psychology', 'offbeat', 'skeptic', 'humor', 'Python', 'lectures', 'Physics', 'business', 'opensource', 'literature', 'web_design', 'emacs', 'crypto', 'cpp', 'ruby', 'programming', 'software'
+PRAW: 'haskellgamedev'
+
+Subreddit: /r/starbound
+Recommendit: 'Games'
+PRAW: 'LifeIsFeudal', 'thebindingofisaac', 'ToME4', 'Rodina', 'NuclearThrone', 'ARK', 'Agario', 'OutreachHPG', 'gigantic', 'strandeddeep'
+
+Subreddit: /r/muaythai
+Recommendit: 'WordAvalanches', 'JoeRogan', 'MMA', 'askcarsales', 'KingkillerChronicle', 'Stoicism', 'Anticonsumption', 'collapse', 'FL_Studio', 'AccidentalComedy', 'pussypassdenied', 'IWantOut', 'seriouseats', 'DnDGreentext', 'books', 'Supplements', 'Fitness', 'ZenHabits', 'childfree', 'NotTimAndEric', 'undelete', 'wrestling', 'judo', 'cinematography', 'PeopleBeingJerks', 'SiliconValleyHBO', 'ChineseLanguage', 'crappymusic', 'fastfood', 'respectporn', 'serialkillers', 'xxfitness', 'nutrition', 'Mindfulness', 'ontario', 'homegym', 'Nootropics', 'Twitch', 'gameDevClassifieds', 'freelance', 'ImaginaryWesteros', 'powerlifting', 'ArtisanVideos', 'Bushcraft', 'Aquariums', 'SelfSufficiency', 'finance', 'leangains', 'environment', 'AfterEffects', 'Survival', 'japan', 'overclocking', 'SkyrimPorn', 'malefashion', 'germany', 'europe', 'LSD', 'martialarts', 'French', 'HeavySeas', 'MechanicAdvice', 'ufc', 'bjj', 'japanlife', 'crossfit', 'IWantToLearn'
+PRAW: 'capoeira'
+
+Subreddit: /r/danmag
+Recommendit: 'shittyama', 'YUROP', 'Denmark'
+PRAW: 'Ameristralia'
+
+Subreddit: /r/baconreader
+Recommendit: 'Punny'
+PRAW: 'ATT', 'redditisfun', 'ProjectAra', 'GalaxyNote3', 'Nexus9', 'verizon', 'lgg2', 'LGG3', 'redditsync', 'galaxys5'
+
+Subreddit: /r/forearmporn
+Recommendit: 'Ladybonersgonecuddly'
+PRAW: 'AidanTurner'
+
+Subreddit: /r/fifthworldproblems
+Recommendit: 'FifthWorldPics'
+PRAW: 'counting'
+
+Subreddit: /r/vim
+Recommendit: 'Clojure', 'javascript', 'learnpython', 'coding', 'sysadmin', 'opensource', 'cpp', 'archlinux', 'shittyprogramming', 'firefox', 'golang', 'ruby', 'linux', 'learnprogramming', 'Python', 'artificial', 'lectures', 'programming'
+PRAW: 'haskellgamedev'
+
+Subreddit: /r/adventuretime
+Recommendit: 'cosplay'
+PRAW: 'AdventureTheory'
+
+Subreddit: /r/woodworking
+Recommendit: 'gardening', 'ArtisanVideos', 'turning', 'Leathercraft', 'DIY', 'somethingimade', 'pics'
+PRAW: 'Scrollsaw'
+
+Subreddit: /r/techsupport
+Recommendit: 'computertechs'
+PRAW: '24hoursupport'
+
+Subreddit: /r/nichtderpostillon
+Recommendit: 'Images', 'kreiswichs', 'TrainPorn', 'europe', 'russia', 'berlin', 'SCHLAND', 'Austria', 'RoomPorn', 'de', 'Twitter', 'ich_iel', 'germany', 'firefox', 'drunk', 'German', 'ShitAmericansSay', 'YUROP', 'television', 'CrappyDesign', 'Munich', 'fcbayern', 'linux_gaming'
+PRAW: 'rocketbeans'
+
+Subreddit: /r/kotor
+Recommendit: 'swtor'
+PRAW: 'Sithit', 'starwarsmemes', 'TheCloneWars', 'StarWarsEU', 'StarWarsLeaks', 'starwarsrebels', 'StarWarsBattlefront', 'MawInstallation', 'XWingTMG', 'battlefront'
+
+Subreddit: /r/secretsanta
+Recommendit: 'Favors'
+PRAW: 'toys', 'cookiedecorating'
+
+Subreddit: /r/askashittydoctor
+Recommendit: 'ShittyLifeProTips', 'shittyadvice', 'shittyaskreddit', 'ShittyFanTheories', 'shittyaskscience', 'ShittyTodayILearned', 'shittyama', 'shittyaskhistory', 'Frugal_Jerk'
+PRAW: 'lifeofnorman'
+
+Subreddit: /r/injusticemobile
+Recommendit: 'TMNT', 'blackops3', 'shittyideas', 'ExpectationVsReality', 'LegendsOfTomorrow', 'arrow', 'MortalKombat', 'deadpool', 'lego', 'dyinglight', 'lootcrate', 'batman', 'comicbooks', 'ForeverAlone', 'Metallica', 'xmen', 'DoctorWhumour', 'DCcomics'
+PRAW: 'gaming'
+
+Subreddit: /r/animation
+Recommendit: 'Design', 'scifi'
+PRAW: 'digitaltutorials'
+
+Subreddit: /r/teenagers
+Recommendit: 'PlayItAgainSam'
+PRAW: 'APStudents', 'stepparents', 'ApplyingToCollege', 'parentsofmultiples', 'tall'
+
+Subreddit: /r/gorillaz
+Recommendit: 'tf2'
+PRAW: 'SmashingPumpkins', 'oasis', 'weezer', 'TheStrokes', 'imaginedragons', 'ModestMouse', 'TheKillers', 'AltJ', 'RedHotChiliPeppers', 'AnimalCollective'
+
+Subreddit: /r/badphilosophy
+Recommendit: 'circlebroke2', 'badlegaladvice', 'socialism', 'FULLCOMMUNISM', 'badhistory', 'badeconomics', 'magicskyfairy', 'Anarchism', 'badlinguistics', 'TheoryOfReddit', 'GamerGhazi', 'badpolitics', 'askphilosophy', 'PanicHistory', 'EnoughLibertarianSpam', 'philosophy'
+PRAW: 'badEasternPhilosophy'
+
+Subreddit: /r/mtf
+Recommendit: 'ainbow', 'transadorable', 'LGBTeens', 'bisexual', 'crossdressing', 'lgbt', 'transgendercirclejerk', 'VaporwaveArt', 'exchristian', 'traaaaaaannnnnnnnnns', 'transgender', 'Kentucky', 'TumblrAtRest', 'Voat', 'TransSpace', 'Vaporwave', 'hiphop101', 'poland', 'soccer', 'transpassing', 'Bandnames', 'transtimelines', 'femalefashionadvice', 'OutOfTheLoop', 'FunnyandSad', 'transpositive', 'genderqueer', 'whatstheword', 'AdviceAtheists', 'GirlGamers', 'MinionHate', 'aspergers', 'asktransgender', 'Drag', 'RandomActsofMakeup'
+PRAW: 'GenderCynical'
+
+Subreddit: /r/gamedevclassifieds
+Recommendit: 'gamedev', 'PixelArt', 'Unity2D', 'chiptunes', 'low_poly', 'Steam', 'gamedesign', 'AndroidGaming'
+PRAW: 'INAT'
+
+Subreddit: /r/bikewrench
+Recommendit: 'bicycletouring', 'cycling', 'FixedGearBicycle', 'bikecommuting', 'cyclocross', 'Bikeporn', 'bicycling'
+PRAW: '29er'
+
+Subreddit: /r/beadsprites
+Recommendit: 'AnimalCrossing'
+PRAW: 'bleachshirts'
+
+Subreddit: /r/linux_gaming
+Recommendit: 'Games', 'netsec', 'privacy', 'linuxquestions', 'unixporn', 'linux', 'google', 'cpp', 'Steam', 'archlinux', 'opensource', 'linuxmasterrace', 'Ubuntu', 'firefox', 'linuxmemes', 'debian', 'crypto', 'Deusex', 'linux4noobs', 'macgaming', 'playstation', 'windows'
+PRAW: 'LinuxCirclejerk'
+
+Subreddit: /r/blackpeoplegifs
+Recommendit: 'Unexpected', 'analogygifs', 'oddlysatisfying', 'Whatcouldgowrong', 'AnimalsBeingJerks', 'IdiotsFightingThings', 'nonononoyes', 'NatureGifs', 'holdmybeer', 'perfectloops', 'nononono', 'PerfectTiming', 'gifs', 'DickButt', 'woahdude', 'Blackfellas', 'AnimalsBeingBros', 'gifextra', 'gif', 'WTF', 'combinedgifs', 'PeopleBeingJerks', 'upvotegifs', 'WastedGifs', 'instant_regret', 'AnimalsBeingDerps', 'funny', 'whitepeoplegifs', 'reactiongifs', 'behindthegifs'
+PRAW: 'asianpeoplegifs'
+
+Subreddit: /r/gonecivil
+Recommendit: 'CasualConversation', 'nonononoyes', 'antibaw', 'gwcommentsonearthporn', 'OSHA', 'buildapc', 'pugs', 'trypophobia', 'trashy', 'overclocking', 'blunderyears', 'ChiefKeef', 'evenwithcontext', 'boop', 'ANormalDayInRussia', 'FiftyFifty'
+PRAW: 'manbuns'
+
+Subreddit: /r/talesfromthesquadcar
+Recommendit: 'cablefail', 'secretsanta', 'germanshepherds', 'techsupportgore', 'policeporn', 'TalesFromRetail', 'ProRevenge', 'IDontWorkHereLady', 'okc', 'Firefighting', 'Canning', 'gardening', 'BestOfReports', 'TalesFromTheCustomer', 'nonononoyes', 'Roadcam', 'law', 'Dinosaurs', 'TalesFromThePizzaGuy', 'ProtectAndServe'
+PRAW: 'AskLE'
+
+Subreddit: /r/ufc
+Recommendit: 'tattoo', 'MMA', 'Sonsofanarchy', 'nhl', 'entertainment', 'television', 'JoeRogan', 'mlb', 'tennis'
+PRAW: 'WMMA'
+
+Subreddit: /r/cpp
+Recommendit: 'javascript', 'linux', 'golang', 'typography', 'mac', 'PHP', 'archlinux', 'iOSProgramming', 'MachineLearning', 'macgaming', 'AndroidGaming', 'netsec', 'shittyprogramming', 'node', 'ruby', 'Python', 'French', 'java', 'nasa', 'ProgrammerHumor', 'dotnet', 'emacs', 'linux4noobs', 'DungeonsAndDragons', 'Wordpress', 'math', 'arduino', 'programming', 'gamedev', 'compsci', 'web_design', 'debian', 'discworld', 'linux_gaming', 'firefox', 'windows', 'rust', 'crypto', 'opensource', 'AskNetsec', 'Stargate', 'webdev', 'vim', 'Clojure', 'linuxquestions', 'csharp', 'ReverseEngineering', 'chrome', 'education', 'coding'
+PRAW: 'haskellgamedev'
+
+Subreddit: /r/comiccon
+Recommendit: 'Gotham', 'GotG', 'Pixar'
+PRAW: 'dragoncon'
+
+Subreddit: /r/trueatheism
+Recommendit: 'evolution', 'DebateAnAtheist', 'skeptic', 'askphilosophy', 'atheismrebooted', 'atheistvids', 'Freethought', 'exchristian', 'TrueReddit', 'humanism', 'DebateAChristian', 'atheism', 'DebateReligion'
+PRAW: 'TAAOfficial'
+
+Subreddit: /r/vocaloid
+Recommendit: 'hatsune', 'evangelion', 'ShingekiNoKyojin', 'anime', 'nintendo', 'MadokaMagica', 'animegifs', 'fairytail', 'Patchuu', 'TokyoGhoul', 'touhou', 'Oreimo', 'vita', 'manga', 'animenocontext', 'Gunime', 'Animewallpaper', '3DS', 'LoveLive', 'casualnintendo', 'gurrenlagann', 'AnimeFigures', 'awwnime', 'KanMusu', 'ZettaiRyouiki', 'Nisekoi', 'JRPG', 'Moescape'
+PRAW: 'BABYMETAL'
+
+Subreddit: /r/creepypms
+Recommendit: 'TheBluePill', 'bigboobproblems'
+PRAW: 'OopsDidntMeanTo'
+
+Subreddit: /r/notebooks
+Recommendit: 'fountainpens'
+PRAW: 'typewriters', 'Wellworn'
+
+Subreddit: /r/mysterydungeon
+Recommendit: 'MiiverseInAction', 'smashart', 'casualnintendo', 'splatoon', 'gamemusic', 'gamingsuggestions', 'fairytail', '3DS', 'minecraftsuggestions', 'ofcoursethatsathing', 'softwaregore', 'fireemblem', 'nintendomusic', 'smashbros', 'MarkMyWords', 'SubredditSimMeta', 'MeanJokes', 'dishonored', 'Toontown', 'nintendo', 'Xenoblade_Chronicles'
+PRAW: 'PokemonRMXP'
+
+Subreddit: /r/europe
+Recommendit: 'serbia', 'politics', 'poland', 'russia', 'Turkey', 'worldnews', 'UkrainianConflict', 'hungary', 'Futurology', 'technology', 'ukraine', 'thenetherlands', 'YUROP', 'MapPorn', 'vexillology', 'de', 'geopolitics', 'linguistics', 'france', 'unitedkingdom', 'CityPorn', 'PropagandaPosters', 'ukpolitics', 'germany'
+PRAW: 'euromigration'
+
+Subreddit: /r/funkopop
+Recommendit: 'deadpool', 'batman', 'lootcrate'
+PRAW: 'lego'
+
+Subreddit: /r/explainlikeimfive
+Recommendit: 'NoStupidQuestions'
+PRAW: 'TheChurchOfRogers', 'modusoperandi'
+
+Subreddit: /r/askelectronics
+Recommendit: 'ECE', 'arduino', 'electronics', 'linuxquestions'
+PRAW: 'AskAstrologers'
+
+Subreddit: /r/changemyview
+Recommendit: 'AskHistorians'
+PRAW: 'moderatepolitics', 'TheoryOfReddit'
+
+Subreddit: /r/trollychromosome
+Recommendit: 'TrollXChromosomes'
+PRAW: 'justtrollxthings', 'TrollBookClub', 'TrollCooking', 'LifeWithIgor', 'tall'
+
+Subreddit: /r/microgrowery
+Recommendit: 'CannabisExtracts', 'Aquariums', 'grilling', 'Marijuana', 'reggae', 'glassheads', 'HumansBeingBros', 'eldertrees', 'SpaceBuckets', 'StonerEngineering'
+PRAW: 'rosin'
+
+Subreddit: /r/catloaf
+Recommendit: 'cats', 'CatGifs', 'boop', 'teefies', 'Blep', 'CatsStandingUp', 'tuckedinkitties', 'LazyCats', 'catpictures', 'MildlyStartledCats', 'jellybeantoes', 'Floof', 'catbellies', 'StuffOnCats', 'Delightfullychubby', 'CatsInSinks'
+PRAW: 'trashpandas'
+
+Subreddit: /r/redditgetsdrawn
+Recommendit: 'ArtistLounge'
+PRAW: 'redditgetsdrawnbadly', 'dailysketch', 'DrawForMe'
+
+Subreddit: /r/tappedout
+Recommendit: 'TheSimpsons'
+PRAW: 'freedonuts', 'familyguythegame', 'THPS', 'TibiaMMO', 'foshelter'
+
+Subreddit: /r/cryptocurrency
+Recommendit: 'economy', 'BitcoinMarkets', 'Marijuana', 'Libertarian', 'WikiLeaks', 'bitcoinxt', 'collapse', 'occupywallstreet', 'Bad_Cop_No_Donut', 'Android', 'Rad_Decentralization', 'Bitcoin', 'Psychonaut', 'debian', 'worldpolitics', 'oregon', 'conspiracy', 'TOR', 'dogecoin', 'litecoin'
+PRAW: 'BitcoinAll'
+
+Subreddit: /r/rocksmith
+Recommendit: 'Bass'
+PRAW: 'offset', 'guitarcirclejerk', 'guitars', 'guitarporn'
+
+Subreddit: /r/shrooms
+Recommendit: 'Psychonaut', 'LSD', 'Drugs', 'DMT', 'mycology'
+PRAW: 'Salvia'
+
+Subreddit: /r/atheism
+Recommendit: 'climate', 'democrats', 'technology', 'business', 'pics', 'humanism', 'evolution', 'TrueAtheism', 'environment', 'worldnews', 'news', 'Liberal', 'spaceporn', 'atheismrebooted', 'nottheonion', 'Bad_Cop_No_Donut', 'Freethought', 'TrueReddit', 'education', 'PoliticalHumor', 'offbeat', 'lgbt', 'television', 'skeptic', 'inthenews', 'woahdude', 'atheistvids', 'progressive', 'politics', 'space'
+PRAW: 'TAAOfficial'
+
+Subreddit: /r/community
+Recommendit: 'television', 'SiliconValleyHBO', '30ROCK', 'brooklynninenine', 'arresteddevelopment', 'analogygifs', 'Harmontown', 'PandR'
+PRAW: 'ImpracticalJokers'
+
+Subreddit: /r/doodles
+Recommendit: 'learnart'
+PRAW: 'dailysketch', 'sketches'
+
+Subreddit: /r/firstworldanarchists
+Recommendit: 'Unexpected'
+PRAW: 'FirstWorldConformists', '5555555', 'Shaneisms', 'fakealbumcovers', 'mildlyvagina', 'pitchforkemporium', 'cahideas', 'TraditionalCurses', 'excgaration'
+
+Subreddit: /r/truechristian
+Recommendit: 'Reformed', 'Republican', 'DebateReligion', 'Sidehugs', 'Christianity', 'ShitPoliticsSays', 'DebateAChristian', 'NoFapChristians', 'AcademicBiblical', 'prolife', 'Conservative', 'dankchristianmemes'
+PRAW: 'Christians'
+
+Subreddit: /r/educationalgifs
+Recommendit: 'facepalm', 'HumansBeingBros', 'oddlysatisfying', 'holdmybeer', 'AnimalsBeingBros', 'aww', 'Eyebleach', 'nononono', 'creepy', 'gifs', 'yesyesyesyesno', 'woahdude', 'AnimalsBeingJerks', 'PerfectTiming', 'combinedgifs', 'AnimalsBeingDerps', 'nonononoyes', 'GamePhysics', 'WTF', 'gif', 'MadeMeSmile', 'Cinemagraphs', 'awesome', 'ANormalDayInRussia', 'funny', 'Whatcouldgowrong', 'physicsgifs', 'tumblr', 'Cyberpunk', 'instant_regret', 'sports', 'whitepeoplegifs', 'IdiotsFightingThings', 'Infographics', 'space', 'MURICA', 'babyelephantgifs', 'gaming', 'perfectloops', 'Punny', 'StarWars', 'MyPeopleNeedMe', 'BeAmazed', 'NatureGifs', 'loadingicon', 'CatGifs', 'Wellthatsucks', 'ChildrenFallingOver', 'ThingsCutInHalfPorn', 'Art', 'geek', 'misleadingthumbnails', 'noisygifs', 'BlackPeopleTwitter', 'LearnUselessTalents', 'PeopleBeingJerks', 'movies', 'awwwtf', 'EngineeringPorn', 'shittyrobots', 'lego', 'Unexpected', 'OldSchoolCool', 'YouShouldKnow', 'pics', 'spaceporn', 'mildlyinfuriating', 'StartledCats', 'interestingasfuck', 'chemicalreactiongifs', 'wheredidthesodago', 'BestOfReports', 'upvotegifs', 'Perfectfit', 'Damnthatsinteresting', 'illusionporn', 'ImageStabilization', 'boop', 'reactiongifs', 'DubbedGIFS', 'WastedGifs', 'gifextra', 'InternetIsBeautiful', 'mechanical_gifs'
+PRAW: 'modusoperandi'
+
+Subreddit: /r/ashens
+Recommendit: 'BritishSuccess'
+PRAW: 'nerdcubed', 'NinjaSexParty', 'Markiplier', 'Shaboozey', 'JonTron', 'normalboots', 'Hatfilms', 'SourceFed', 'Sjin', 'Cynicalbrit'
+
+Subreddit: /r/whitepeoplegifs
+Recommendit: 'Unexpected', 'combinedgifs', 'nononono', 'woahdude', 'Whatcouldgowrong', 'AnimalsBeingJerks', 'holdmybeer', 'reactiongifs', 'misleadingthumbnails', 'nonononoyes', 'WTF', 'funny', 'StartledCats', 'awesome', 'instant_regret', 'oddlysatisfying', 'gif', 'MadeMeSmile', 'perfectloops', 'IdiotsFightingThings', 'AnimalsBeingDerps', 'blackpeoplegifs', 'AnimalsBeingBros', 'gifs', 'educationalgifs'
+PRAW: 'javertgifs'
+
+Subreddit: /r/treecomics
+Recommendit: 'eldertrees'
+PRAW: 'Treeparents'
+
+Subreddit: /r/photocritique
+Recommendit: 'postprocessing', 'ExposurePorn', 'ArchitecturePorn', 'streetphotography', 'itookapicture', 'analog'
+PRAW: 'SonyAlpha'
+
+Subreddit: /r/cannabisextracts
+Recommendit: 'microgrowery', 'eldertrees', 'glassheads', 'Drugs', 'advertising', 'simpleliving', 'LSD', 'Psychonaut'
+PRAW: 'rosin'
+
+Subreddit: /r/badeconomics
+Recommendit: 'TheBluePill', 'EnoughLibertarianSpam', 'PanicHistory', 'AskSocialScience', 'conspiratard', 'CredibleDefense', 'badlinguistics', 'BasicIncome', 'geopolitics', 'AskHistorians', 'nottheonion', 'badpolitics', 'badlegaladvice', 'SubredditDramaDrama', 'badphilosophy', 'europe', 'Foodforthought', 'socialism', 'badhistory', 'asianamerican', 'AskAnthropology', 'TheoryOfReddit', 'Economics', 'lostgeneration', 'skeptic', 'worstof', 'ShitRConservativeSays', 'SubredditDrama', 'Libertarian', 'NoShitSherlock', 'askphilosophy'
+PRAW: 'PraxAcceptance'
+
+Subreddit: /r/booksuggestions
+Recommendit: 'suggestmeabook'
+PRAW: 'bookscirclejerk', 'audible', 'Eragon', 'PieceOfShitBookClub', 'robinhobb'
+
+Subreddit: /r/coding
+Recommendit: 'education', 'node', 'raspberry_pi', 'Design', 'webdev', 'business', 'linux', 'startups', 'golang', 'osx', 'gadgets', 'geography', 'Piracy', 'opensource', 'evolution', 'howto', 'hacking', 'emacs', 'Wordpress', 'google', 'windows', 'web_design', 'MachineLearning', 'typography', 'electronics', 'ios', 'arduino', 'programming', 'energy', 'mac', 'math', 'vim', 'gamedev', 'Python', 'firefox', 'netsec', 'compsci', 'dotnet', 'debian', 'PHP', 'ReverseEngineering', 'EverythingScience', 'chrome', 'csharp', 'ruby', 'security', 'javascript', 'artificial', 'software', 'java', 'learnprogramming', 'cpp', 'microsoft'
+PRAW: 'haskellgamedev'
+
+Subreddit: /r/shiba
+Recommendit: 'CatGifs', 'dogpictures', 'AnimalPorn', 'shibe', 'puppies', 'AnimalsBeingDerps', 'Perfectfit', 'Owls', 'foxes', 'happy', 'Unexpected'
+PRAW: 'MiniaturePinscher'
+
+Subreddit: /r/getmotivated
+Recommendit: 'funny', 'MadeMeSmile', 'gifs', 'woahdude'
+PRAW: 'MotivationVideos'
+
+Subreddit: /r/shortscarystories
+Recommendit: 'shittyreactiongifs', 'fifthworldproblems', 'TwoSentenceHorror', 'creepypasta', 'nosleep', 'FanTheories'
+PRAW: 'exasperations'
+
+Subreddit: /r/snsd
+Recommendit: 'AsianCuties', 'futureporn', 'CityPorn', 'Houseporn', 'apink', 'ArchitecturePorn', 'randomsexygifs', 'japan', 'kpop', 'cutegirlgifs', 'exo', 'Perfectfit', 'kpopslumberparty', 'blackops2', 'wallpaper', 'koreanvariety', 'RoomPorn', 'kpics', 'korea', 'Nisekoi', 'Documentaries'
+PRAW: 'SaayaIrie'
+
+Subreddit: /r/solar
+Recommendit: 'water', 'politics', 'AmericanPolitics', 'PoliticalHumor', 'Piracy', 'scifi', 'Kentucky', 'psychology', 'Health', 'business', 'worldpolitics', 'education', 'nature', 'history', 'biology', 'occupywallstreet', 'uspolitics', 'sciencefiction', 'lectures', 'Marijuana', 'NorthCarolina', 'florida', 'progressive', 'climate', 'raspberry_pi', 'democrats', 'artificial', 'WikiLeaks', 'worldnews', 'Liberal', 'TOR', 'Ohio', 'SelfSufficiency', 'AnythingGoesNews', 'minnesota', 'Drugs', 'NewsOfTheWeird', 'homestead', 'snowden', 'southcarolina', 'trains', 'gadgets', 'google', 'elonmusk', 'Washington', 'environment', 'Louisiana', 'ArchitecturePorn', 'software', 'inthenews', 'Anthropology', 'hacking', 'ukraine', 'poland', 'Automate', 'finance', 'Foodforthought', 'RenewableEnergy', 'nasa', 'advertising', 'California', 'Beekeeping', 'security', 'dogs', 'privacy', 'britishcolumbia', 'EverythingScience', 'chrome', 'labor', 'mycology', 'urbanplanning', 'electricvehicles', 'tech', 'religion', 'economy', 'evolutionReddit', 'cogsci', 'Indiana', 'germany', 'worldevents', 'Economics', 'evolution', 'opensource', 'jobs', 'books', 'Twitter', 'korea', 'Archaeology', 'computers', 'architecture', 'arizona', 'law', 'Futurology', 'offbeat', 'women', 'racism', 'HealthyFood', 'Switzerland', 'TinyHouses', 'singularity', 'linguistics', 'energy', 'robotics', 'teslamotors', 'geography', 'oregon', 'windows', 'spaceflight', 'Physics', 'Libertarian', 'transhumanism', 'highereducation', 'NorthKoreaNews', 'EndlessWar', 'TwinCities', 'China', 'entertainment', 'geopolitics'
+PRAW: 'climateskeptics'
+
+Subreddit: /r/slowcooking
+Recommendit: 'tonightsdinner', '1200isplenty', 'EatCheapAndHealthy', 'grilling'
+PRAW: 'Celiac'
+
+Subreddit: /r/guitarpedals
+Recommendit: 'guitarporn', 'Luthier', 'diypedals', 'Bass', 'guitarcirclejerk'
+PRAW: 'rocksmith'
+
+Subreddit: /r/kpop
+Recommendit: 'RedditDayOf', 'futureporn', 'CityPorn', 'asiangirlsbeingcute', 'FoodPorn', 'apink', 'thinkpad', 'Columbus', 'ussoccer', 'brooklynninenine', 'SiliconValleyHBO', 'SNSD', 'nononono', 'boston', 'rockets', 'Korean', 'korea', 'AsianLadyboners', 'koreanvariety', 'japan', 'HumanPorn', 'archeage', 'kpopslumberparty', 'singapore', 'blackpeoplegifs', 'ShittyEarthPorn', 'KillLaKill', 'ramen', 'exo', 'subredditoftheday', 'kpics', 'BABYMETAL', 'sharks', 'ArchitecturePorn', 'AsianCuties', 'spam', 'OnePiece', 'britpics', 'photography', 'China', 'esports', 'taiwan', 'techsupportmacgyver'
+PRAW: 'KTymee'
+
+Subreddit: /r/poetry
+Recommendit: 'books', 'OCPoetry', 'literature', 'Documentaries'
+PRAW: 'bookscirclejerk'
+
+Subreddit: /r/gakinotsukai
+Recommendit: 'gamecollecting', 'Jazz'
+PRAW: 'AKB48'
+
+Subreddit: /r/libertarianmeme
+Recommendit: 'randpaul', 'restorethefourth', 'DescentIntoTyranny', 'Shitstatistssay', 'climateskeptics', 'Conservative', 'Anarcho_Capitalism', 'PoliticalHumor', 'progun', 'conspiracy', 'Republican', 'Libertarian', 'Bad_Cop_No_Donut'
+PRAW: 'ronpaul'
+
+Subreddit: /r/animesketch
+Recommendit: 'Nisekoi', 'Animewallpaper', 'steinsgate', 'animegifs', 'anime', 'Oreimo', 'araragi', 'ArtistLounge', 'toradora', 'ArtBuddy', 'KillLaKill', 'Vocaloid', 'SchoolIdolFestival', 'gangstaswithwaifus', 'gurrenlagann'
+PRAW: 'dailysketch'
+
+Subreddit: /r/stephenking
+Recommendit: 'books', 'TheDarkTower'
+PRAW: 'readyplayerone'
+
+Subreddit: /r/tribes
+Recommendit: 'esports', 'Steam', 'titanfall'
+PRAW: 'Robocraft'
+
+Subreddit: /r/ptcgo
+Recommendit: 'Megaman', 'patientgamers', 'dadjokes', 'killthosewhodisagree', 'CasualConversation', 'Oreimo', 'GearsOfWar', 'pkmntcg', 'fantasybaseball', 'dfsports', 'uwotm8', 'ClickerHeroes', 'HunterXHunter', 'SFM', 'FreeEBOOKS', 'RocketLeague', 'france', 'earthbound', 'XWingTMG', 'badeconomics', 'bleach', 'SonicTheHedgehog', 'TokyoGhoul', 'pkmntcgcollections', 'letsplay', 'Twitch', 'Cubers', 'nintendo'
+PRAW: 'hextcg'
+
+Subreddit: /r/gametales
+Recommendit: 'ScenesFromAHat', 'rpg', 'Pathfinder_RPG', 'DnD', 'DungeonsAndDragons', 'DnDGreentext', 'dresdenfiles', 'retiredgif'
+PRAW: 'Vinesauce'
+
+Subreddit: /r/asongofmemesandrage
+Recommendit: 'gameofthrones'
+PRAW: 'hodor', 'GameofThronesRP', 'fuckolly', 'thingsjonsnowknows'
+
+Subreddit: /r/veganfoodporn
+Recommendit: 'vegancirclejerk', 'AnimalRights', 'Floof', 'shittyfoodporn', 'ShittyVeganFoodPorn', 'facebookwins', 'resumes', 'SaltLakeCity', 'Birbs', '1200isplenty', 'HealthyFood', 'australia', 'veganrecipes', 'vegan', 'de', 'LifeProTips', 'vegetarian', 'simpleliving', 'shittyHDR', 'wowthissubexists', 'taiwan'
+PRAW: 'veghumor'
+
+Subreddit: /r/anarcho_capitalism
+Recommendit: 'progun', 'economy', 'Economics', 'libertarianmeme', 'Shitstatistssay', 'Libertarian', 'Bad_Cop_No_Donut', 'randpaul', 'Republican', 'transhumanism', 'Health'
+PRAW: 'Anarcho_Reaction'
+
+Subreddit: /r/nofap
+Recommendit: 'pornfree'
+PRAW: 'NoFapWar', 'Trichsters', 'MuslimNoFap'
+
+Subreddit: /r/environment
+Recommendit: 'wikipedia', 'NewsOfTheWeird', 'offbeat', 'politics', 'water', 'Economics', 'climate', 'Foodforthought', 'worldevents', 'uspolitics', 'nottheonion', 'evolutionReddit', 'religion', 'google', 'RenewableEnergy', 'GunsAreCool', 'news', 'solar', 'nasa', 'NorthCarolina', 'literature', 'business', 'AnythingGoesNews', 'UpliftingNews', 'software', 'inthenews', 'Liberal', 'biology', 'unitedkingdom', 'science', 'California', 'AmericanPolitics', 'florida', 'Health', 'worldnews', 'texas', 'highereducation', 'Indiana', 'energy', 'Anthropology', 'ideasfortheadmins', 'Washington', 'law', 'minnesota', 'Bad_Cop_No_Donut', 'wisconsin', 'linguistics', 'evolution', 'Anticonsumption', 'racism', 'Ohio', 'Pennsylvania', 'scifi', 'arizona', 'progressive', 'cannabis', 'conspiracy', 'democrats', 'women', 'Kentucky', 'humanism', 'gadgets', 'snowden', 'USNEWS', 'privacy', 'cyberlaws', 'Colorado', 'architecture', 'PoliticalHumor', 'EverythingScience', 'nature', 'Feminism', 'entertainment', 'psychology', 'worldpolitics', 'Freethought', 'collapse', 'Marijuana', 'NewsOfTheStupid', 'Piracy', 'socialism', 'robotics', 'economy', 'TrueReddit', 'canada', 'Louisiana', 'tech', 'AnimalRights', 'Twitter', 'TwoXChromosomes', 'technology', 'labor', 'humor', 'space', 'occupywallstreet', 'books', 'lectures', 'history', 'atheism', 'urbanplanning', 'Alabama', 'skeptic', '911truth', 'Physics', 'cogsci', 'Archaeology', 'WikiLeaks', 'education', 'philosophy', 'feminisms', 'EndlessWar', 'Futurology'
+PRAW: 'IndianCountry'
+
+Subreddit: /r/fuckmusic
+Recommendit: 'Kanye', 'awwnverts', 'trypophobia', 'ClassicRock', 'progrockmusic', 'punk', 'shittyaskreddit', 'Birbs', '90sAlternative', 'Musicthemetime', 'festivals', 'AskScienceDiscussion', 'postpunk', 'cosmoandwanda', 'OldSchoolCoolMusic', 'mlb', 'catpictures', 'GuiltyPleasureMusic', 'tipofmytongue', 'shittyideas', 'MostBeautiful'
+PRAW: 'FullAlbumsOnYouTube'
+
+Subreddit: /r/blues
+Recommendit: 'reggae', 'Jazz', 'ClassicRock', 'Bass'
+PRAW: 'country'
+
+Subreddit: /r/adviceatheists
+Recommendit: 'atheismrebooted', 'TheFacebookDelusion', 'atheism', 'exchristian'
+PRAW: 'TAAOfficial'
+
+Subreddit: /r/inglin
+Recommendit: 'unitedkingdom', 'MURICA', 'britishproblems', 'britpics', 'ukpolitics', 'BritishSuccess', 'vexillology', 'BritishTV', 'AskUK'
+PRAW: 'Ameristralia'
+
+Subreddit: /r/youtube
+Recommendit: 'google'
+PRAW: 'NewTubers'
+
+Subreddit: /r/standupshots
+Recommendit: 'funny', 'Whatcouldgowrong', 'StandUpComedy', 'childfree', 'PerfectTiming', 'movies', 'comedy', 'Standup', 'oddlysatisfying', 'television', 'gifs', 'FunnyandSad', 'tumblr', 'facebookwins', 'instant_regret', 'StarWars'
+PRAW: 'DirtyJokes'
+
+Subreddit: /r/australia
+Recommendit: 'perth', 'nrl', 'Aleague', 'Adelaide', 'auslaw', 'melbourne', 'AustralianPolitics', 'AusMemes', 'brisbane', 'sydney', 'AFL', 'straya'
+PRAW: 'circlejerkaustralia'
+
+Subreddit: /r/larp
+Recommendit: 'TerrainBuilding', 'Leathercraft', 'lfg', 'teslore'
+PRAW: 'taverntales'
+
+Subreddit: /r/raiseyourdongers
+Recommendit: 'engrish', 'UnexpectedCena', 'hearthstonecirclejerk', 'Steam', 'KoreanAdvice', 'FinalFantasy', 'im14andthisisdeep', 'youdontsurf', 'ofcoursethatsathing'
+PRAW: '4chan'
+
+Subreddit: /r/buddhism
+Recommendit: 'howtonotgiveafuck', 'psychology', 'zen', 'religion', 'Psychonaut', 'education', 'evolution', 'TrueAtheism', 'humanism', 'Meditation', 'HumanPorn', 'EverythingScience', 'simpleliving'
+PRAW: 'Dreadlocks'
+
+Subreddit: /r/hedgehog
+Recommendit: 'littlebuddies'
+PRAW: 'guineapigs', 'pigs', 'cockatiel', 'chinchilla', 'squirrels', 'hamsters', 'ferrets', 'Chameleons', 'Horses', 'trashpandas'
+
+Subreddit: /r/twobestfriendsplay
+Recommendit: 'Megaten'
+PRAW: 'ContinueShow', 'normalboots', 'TheCompletionist', 'TheCreatures', 'Markiplier', 'TheCinemassacre', 'JonTron', 'pewdiepie', 'gamegrumps', 'giantbomb'
+
+Subreddit: /r/metroid
+Recommendit: 'Portal', 'casualnintendo', 'MarioMaker', 'nintendomusic', 'FinalFantasy', 'zelda', 'earthbound', 'Mario', 'nintendo', 'chronotrigger', 'JRPG', 'snes', 'nes', 'alternativeart', 'SonicTheHedgehog', 'Xenoblade_Chronicles', 'Megaman', 'gamemusic', 'Kirby'
+PRAW: 'MightyNo9'
+
+Subreddit: /r/evememes
+Recommendit: 'Eve'
+PRAW: 'evejobs', 'fweddit'
+
+Subreddit: /r/bicycletouring
+Recommendit: 'bikewrench', 'Ultralight', 'bikecommuting', 'cycling', 'FixedGearBicycle', 'cyclocross', 'CampingandHiking', 'bicycling', 'Bikeporn', 'Hammocks'
+PRAW: 'BikeShop'
+
+Subreddit: /r/outrun
+Recommendit: 'Cyberpunk', 'Vaporwave', 'Cyberpunk_Music'
+PRAW: 'newretrowave'
+
+Subreddit: /r/creepy
+Recommendit: 'oddlysatisfying', 'holdmybeer', 'educationalgifs', 'interestingasfuck', 'nononono', 'instant_regret', 'AnimalsBeingBros', 'Whatcouldgowrong', 'Damnthatsinteresting', 'perfectloops', 'WTF', 'aww', 'Unexpected', 'illusionporn', 'reactiongifs', 'PerfectTiming', 'StartledCats', 'woahdude', 'AnimalsBeingJerks', 'gifs', 'sports', 'ANormalDayInRussia', 'Eyebleach', 'lego', 'nonononoyes', 'gif', 'food', 'misleadingthumbnails', 'AnimalsBeingDerps', 'Art', 'funny', 'chemicalreactiongifs', 'pics', 'NatureGifs', 'HistoryPorn', 'AbandonedPorn', 'tumblr', 'StarWars', 'CatGifs', 'IdiotsFightingThings', 'photoshopbattles', 'OldSchoolCool', 'PeopleBeingJerks', 'awesome', 'combinedgifs', 'space'
+PRAW: 'GhostAdventures'
+
+Subreddit: /r/communism
+Recommendit: 'FULLCOMMUNISM', 'racism', 'worldnews', 'environment', 'worldevents', 'badphilosophy', 'lectures', 'collapse', 'kurdistan', 'socialism', 'Feminism', 'ShitLiberalsSay', 'labor', 'occupywallstreet', 'CommunismWorldwide', 'anarchomemes', 'Palestine', 'goldredditsays', 'HailCorporate', 'EnoughLibertarianSpam', 'punk', 'communism101', 'democrats', 'conspiracy', 'Documentaries', 'russia', 'northernireland', 'politics', 'philosophy', 'China', 'feminisms', 'Foodforthought', 'PropagandaPosters', 'TrueReddit', 'AskSocialScience', 'Anarchism', 'Economics', 'EndlessWar'
+PRAW: 'podemos'
+
+Subreddit: /r/uiuc
+Recommendit: 'whitesox'
+PRAW: 'UWMadison', 'PennStateUniversity', 'msu', 'rutgers', 'UMD', 'uofm', 'OSU', 'TheB1G', 'WisconsinBadgers'
+
+Subreddit: /r/unresolvedmysteries
+Recommendit: 'books'
+PRAW: 'chernobyl', 'CrimeMugshots', 'gratefuldoe'
+
+Subreddit: /r/dealsreddit
+Recommendit: 'buildapcsales', 'shutupandtakemymoney', 'Frugal', 'television', 'deals', 'Dexter', 'eFreebies', 'technology'
+PRAW: 'Costco'
+
+Subreddit: /r/selfsufficiency
+Recommendit: 'TinyHouses', 'RenewableEnergy', 'Anticonsumption', 'Frugal', 'Canning', 'energy', 'environment', 'mycology', 'solar', 'simpleliving', 'homestead', 'education', 'occupywallstreet', 'Beekeeping', 'DepthHub', 'collapse', 'preppers', 'gadgets'
+PRAW: 'Dreadlocks'
+
+Subreddit: /r/boston
+Recommendit: 'weather', 'inthenews', 'environment', 'redsox', 'nyc', 'arizona', 'California', 'RhodeIsland', 'education', 'florida'
+PRAW: 'CapeCod'
+
+Subreddit: /r/basicincome
+Recommendit: 'singularity', 'Health', 'Futurology', 'progressive', 'education', 'environment', 'SelfDrivingCars', 'simpleliving', 'Bad_Cop_No_Donut', 'lostgeneration', 'Economics', 'California', 'news', 'TrueReddit', 'SandersForPresident', 'NoShitSherlock', 'socialism', 'Foodforthought', 'conspiracy', 'worldpolitics', 'Automate', 'lectures', 'inthenews', 'transhumanism', 'Anticonsumption', 'RenewableEnergy', 'politics', 'Washington', 'self', 'Liberal', 'collapse'
+PRAW: 'homeless'
+
+Subreddit: /r/mead
+Recommendit: 'castiron', 'Beekeeping', 'Homebrewing'
+PRAW: 'cider'
+
+Subreddit: /r/labrats
+Recommendit: 'biology', 'GradSchool', 'AskAcademia'
+PRAW: 'medlabprofessionals'
+
+Subreddit: /r/bigdickproblems
+Recommendit: 'bigboobproblems'
+PRAW: 'tall'
+
+Subreddit: /r/dndgreentext
+Recommendit: 'Twitch', 'IDontWorkHereLady', 'budgetfood', 'bestofTLDR', 'whowouldwin', 'DungeonsAndDragons', 'me_irl', 'lifeofnorman', 'CasualConversation', 'DnD', 'rpg', 'PlayItAgainSam', 'skyrimmods', 'virtualreality', 'falloutlore', 'Pathfinder_RPG', 'gametales', 'books', 'dresdenfiles', 'enlightenedbirdmen', 'DnDBehindTheScreen'
+PRAW: 'makeyourchoice'
+
+Subreddit: /r/minecraft
+Recommendit: 'minecraftsuggestions'
+PRAW: 'MinecraftBanners', 'simplerockets', 'thebindingofisaac', 'roguesystem', 'DvZ', 'Battleborn', 'DayZmod', 'PKA', 'TapTitans', 'Redditside'
+
+Subreddit: /r/catsinsinks
+Recommendit: 'noisygifs', 'AnimalsBeingDerps', 'jellybeantoes', 'Catloaf', 'cats', 'Delightfullychubby', 'Blep', 'StopTouchingMe', 'AnimalsBeingJerks', 'Floof', 'StuffOnCats', 'TuxedoCats', 'catpictures', 'tuckedinkitties', 'boop', 'CatGifs', 'hardcoreaww', 'CatsStandingUp', 'CatsInBusinessAttire', 'StartledCats', 'catbellies'
+PRAW: 'trashpandas'
+
+Subreddit: /r/beards
+Recommendit: 'BeardPorn', 'redditgetsdrawn'
+PRAW: 'Dreadlocks'
+
+Subreddit: /r/de
+Recommendit: 'berlin', 'NichtDerPostillon', 'ShitAmericansSay', 'kreiswichs', 'france', 'ich_iel', 'SCHLAND', 'germany', 'InternetIsBeautiful', 'Austria', 'europe'
+PRAW: 'rocketbeans'
+
+Subreddit: /r/shinypokemon
+Recommendit: 'AnimalCrossing'
+PRAW: 'friendsafari', 'PokemonQRCodes'
+
+Subreddit: /r/tellmeafact
+Recommendit: 'MarioMaker'
+PRAW: 'SmarterEveryDay', 'coolguides', 'BradyHaran', 'goodlongposts', 'HelloInternet', 'ThingsIWishIKnew', 'LearnUselessTalents', 'kurzgesagt', 'modusoperandi'
+
+Subreddit: /r/talesfromthepharmacy
+Recommendit: '1200isplenty', 'pharmacy'
+PRAW: 'PrePharmacy'
+
+Subreddit: /r/cinemagraphs
+Recommendit: 'combinedgifs', 'interestingasfuck', 'DubbedGIFS', 'HighQualityGifs', 'ImageStabilization', 'oddlysatisfying', 'chemicalreactiongifs', 'HumanPorn', 'perfectloops', 'gifs', 'NatureGifs', 'SplitDepthGIFS', 'DickButt', 'instant_regret', 'GamePhysics', 'educationalgifs', 'Unexpected', 'woahdude', 'upvotegifs', 'holdmybeer', 'Frisson', 'AnimalsBeingBros'
+PRAW: 'musicgifstation'
+
+Subreddit: /r/cooking
+Recommendit: 'recipes', 'castiron', 'Breadit'
+PRAW: 'beerandpizza'
+
+Subreddit: /r/warthunder
+Recommendit: 'CompanyOfHeroes', 'flightsim', 'WWIIplanes', 'subnautica', 'WorldOfWarships', 'wargame', 'WorldofTanks', 'TankPorn', 'totalwar', 'EliteDangerous', 'MilitaryPorn', 'aviation', 'redorchestra'
+PRAW: 'Spintires'
+
+Subreddit: /r/sonsofanarchy
+Recommendit: '30ROCK'
+PRAW: 'RayDonovan', 'justified', 'Hell_On_Wheels', 'Spartacus_TV', 'fridaynightlights'
+
+Subreddit: /r/dishonored
+Recommendit: 'Deusex'
+PRAW: 'Wolfenstein', 'mirrorsedge', 'ShovelKnight', 'DeadSpace', 'metro2033', 'transistor', 'commandandconquer', 'battlefront', 'dynastywarriors'
+
+Subreddit: /r/koreanvariety
+Recommendit: 'AsianCuties', 'Korean', 'kpics', 'apink', 'randomsexygifs', 'kpop', 'kpopslumberparty', 'singapore', 'cutegirlgifs', 'SNSD', 'gundeals', 'korea'
+PRAW: 'KTymee'
+
+Subreddit: /r/edmprodcirclejerk
+Recommendit: 'skrillex', 'WeAreTheMusicMakers', 'electronicmusic', 'DJs', 'edmproduction', 'MusicBattlestations', 'FL_Studio', 'EDM', 'trap'
+PRAW: 'audiojerk'
+
+Subreddit: /r/amsterdam
+Recommendit: 'arizona', 'cirkeltrek', 'germany', 'MapPorn', 'europe', 'Iceland', 'YUROP', 'ShitAmericansSay', 'thenetherlands'
+PRAW: 'Barcelona'
+
+Subreddit: /r/occult
+Recommendit: 'Heavymind', 'UFOs', 'DrugArt', 'Psychonaut', 'DMT', 'BlackMetal', 'Cthulhu', 'goth'
+PRAW: 'thelema'
+
+Subreddit: /r/beetlejuicing
+Recommendit: 'wowthissubexists'
+PRAW: 'googlepoems', 'WordAvalanches', 'switcharoo', 'CaptchaArt', 'nonose', 'antibaw', 'GoForGold', 'breathinginformation', 'coaxedintoasnafu', 'ofcoursethatsathing'
+
+Subreddit: /r/vegan
+Recommendit: 'VeganFoodPorn', 'AnimalRights', 'vegancirclejerk', 'Feminism', 'simpleliving', 'ShittyVeganFoodPorn', 'VegRecipes', 'veganrecipes', 'vegetarian', 'Documentaries'
+PRAW: 'Celiac'
+
+Subreddit: /r/discworld
+Recommendit: 'scifi', 'books', 'dresdenfiles'
+PRAW: 'readyplayerone'
+
+Subreddit: /r/askphysics
+Recommendit: 'Physics', 'whatstheword'
+PRAW: 'AskLE'
+
+Subreddit: /r/battlepaintings
+Recommendit: 'WarplanePorn', 'castles', 'ArtPorn', 'TheWayWeWere', 'InfrastructurePorn', 'HeavySeas', 'AnimalPorn', 'ruralporn', 'ArchitecturePorn', 'awwschwitz', 'NewsOfTheStupid', 'bookporn', 'aviationpics', 'Banished', 'shitpost', 'ancientrome', 'museum', 'mountandblade', 'DestructionPorn', 'FULLCOMMUNISM', 'TrainPorn', 'WarshipPorn', 'HistoryPorn', 'spaceporn', 'WWIIplanes', 'TankPorn', 'MapPorn', 'churchporn', 'Health', 'TopMindsOfReddit', 'AbandonedPorn', 'russia', 'imaginarymaps', 'nyc', 'iamverysmart', 'ImaginaryStarships', 'seaporn', 'offbeat', 'vexillology', 'DesirePath', 'Iceland', 'Wellthatsucks', 'ImaginaryLeviathans', 'INGLIN', 'wikipedia', 'ShittyEarthPorn', 'wwiipics', 'AutumnPorn', 'LessCredibleDefence', 'CombatFootage', 'PropagandaPosters', 'MilitaryPorn', 'BestOfReports', 'HumanPorn', 'MachinePorn', 'Dallas'
+PRAW: 'explainlikedrcox'
+
+Subreddit: /r/astrophotography
+Recommendit: 'gardening', 'photocritique', 'spaceporn', 'CitiesSkylines', 'Astronomy', 'itookapicture', 'dadjokes', 'SkyPorn', 'ExposurePorn', 'postprocessing', 'waterporn', 'space', 'Aquariums', 'OldSchoolCool', 'pics', 'StartledCats'
+PRAW: 'LandscapeAstro'
+
+Subreddit: /r/bandnames
+Recommendit: 'MarkMyWords'
+PRAW: 'MiniMetro', 'Cubers', 'pureawesomeness', 'KarmaConspiracy', 'DrunkOrAKid', 'loadingicon', 'PointlessStories'
+
+Subreddit: /r/ragecomics
+Recommendit: 'AnimalsBeingJerks', 'creepy', 'loadingicon', 'pcmasterrace', 'fffffffuuuuuuuuuuuu', 'facepalm', 'calvinandhobbes'
+PRAW: 'memes'
+
+Subreddit: /r/stunfisk
+Recommendit: 'findareddit', '3DS', 'smashart', 'fireemblem', 'whowouldwin', 'beermoney', 'ShinyPokemon', 'pokemontrades', 'SSBM', 'SubredditSimMeta', 'JRPG', 'digimon', 'respectthreads', 'ifyoulikeblank', 'AskScienceFiction', 'pokemonshowdown', 'pokemonzetaomicron', 'SSBPM', 'pokemon'
+PRAW: 'PokemonQRCodes'
+
+Subreddit: /r/lifeprotips
+Recommendit: 'YouShouldKnow'
+PRAW: 'LSAT', 'Psoriasis', 'rollercoasters', 'Frat', 'CrohnsDisease'
+
+Subreddit: /r/thewalkingdead
+Recommendit: 'gameofthrones'
+PRAW: 'FearTheWalkingDead', 'ZNation', 'ImpracticalJokers', 'WetHotAmericanSummer', 'Bloodline', 'theleague', 'ANTM', 'turn'
+
+Subreddit: /r/space
+Recommendit: 'spaceporn', 'Damnthatsinteresting', 'interestingasfuck', 'sports', 'Futurology', 'gifs', 'ArchitecturePorn', 'AnimalPorn', 'technology', 'food', 'nasa', 'oddlysatisfying', 'Astronomy', 'WTF', 'AbandonedPorn', 'InfrastructurePorn', 'AnimalsBeingBros', 'movies', 'ThingsCutInHalfPorn', 'awesome', 'politics', 'nonononoyes', 'HistoryPorn', 'woahdude', 'dataisbeautiful', 'science', 'chemicalreactiongifs', 'SkyPorn', 'OldSchoolCool', 'MURICA', 'pics', 'CityPorn', 'Physics', 'Infographics', 'holdmybeer', 'creepy', 'nononono', 'geek', 'Whatcouldgowrong', 'worldnews', 'educationalgifs', 'aww', 'news', 'books', 'atheism', 'AnimalsBeingJerks', 'PerfectTiming', 'MapPorn'
+PRAW: 'curiosityrover'
+
+Subreddit: /r/rbi
+Recommendit: 'Bad_Cop_No_Donut'
+PRAW: 'firstimpressions', 'DesktopDetective', 'Magic', 'gratefuldoe'
+
+Subreddit: /r/shittytodayilearned
+Recommendit: 'shittyaskscience', 'CrazyIdeas', 'askashittydoctor', 'shittyadviceanimals', 'ShittyFanTheories', 'ShittyEarthPorn', 'shittyaskreddit', 'shittyadvice', 'ofcoursethatsathing', 'ShittyLifeProTips', 'thingsforants', 'wowthissubexists', 'Frugal_Jerk', 'shittyaskhistory', 'shittyama'
+PRAW: 'ShittyMapPorn'
+
+Subreddit: /r/metaljerk
+Recommendit: 'MetalMemes', 'Metalcore', 'awwnverts', 'BlackMetal', 'Gamingcirclejerk', 'Braveryjerk', 'MetalPorn', 'Metal', 'postpunk', 'YUROP', 'whiteknighting', 'Deathcore', 'tipofmytongue', 'LetsTalkMusic', 'vexillologycirclejerk', 'worstof', 'TheoryOfReddit', 'AntiJokes', 'PostHardcore', 'AntiAntiJokes', 'ShittyEarthPorn', 'hockeycirclejerk', 'shittynosleep', 'spam', 'SubredditSimMeta', 'mfacirclejerk', '3amjokes'
+PRAW: 'whowouldcirclejerk'
+
+Subreddit: /r/bjj
+Recommendit: 'MuayThai', 'wrestling', 'judo', 'JoeRogan', 'whiteknighting', 'MMA'
+PRAW: 'WMMA'
+
+Subreddit: /r/talesfromtechsupport
+Recommendit: 'ProRevenge', 'talesfromcallcenters', 'techsupport', 'cablefail', 'pettyrevenge', 'techsupportgore'
+PRAW: 'itslenny'
+
+Subreddit: /r/3amjokes
+Recommendit: 'PlayItAgainSam'
+PRAW: 'DirtyJokes', 'princessdaisy', 'cleanjokes', 'pickuplines', 'insults', 'GoldReplies', 'Shaneisms', 'AntiJokes', 'MeanJokes', 'cahideas'
+
+Subreddit: /r/riddles
+Recommendit: 'ScenesFromAHat'
+PRAW: 'puzzles'
+
+Subreddit: /r/animals
+Recommendit: 'memes', 'Damnthatsinteresting', 'Documentaries', 'EverythingScience', 'HumanPorn', 'awesome', 'quotes'
+PRAW: 'IndianCountry'
+
+Subreddit: /r/shestillsucking
+Recommendit: 'justneckbeardthings'
+PRAW: 'lwgcirclejerk', 'thank_mr_skeltal', 'NavySealCopypasta', 'dank_meme', 'pepethefrog', 'ooerintensifies', 'JustStemThings', 'starterpacks', 'bannedfromclubpenguin', 'OddlyArousing'
+
+Subreddit: /r/portal
+Recommendit: 'HalfLife'
+PRAW: 'thesimscc', 'Ingress'
+
+Subreddit: /r/stopdrinking
+Recommendit: 'cripplingalcoholism', 'LearnUselessTalents'
+PRAW: 'alcoholism'
+
+Subreddit: /r/idareyou
+Recommendit: 'pitchforkemporium', 'perfectloops', 'outside', 'Shaneisms', 'bigbangcomics', 'loadingicon', 'ScenesFromAHat', 'me_irl', 'morbidquestions', 'DeepIntoYouTube', 'ilerminaty', 'nocontext', 'tumblr', 'ofcoursethatsathing', 'wowthissubexists', 'wtfstockphotos', 'suggestmeabook', 'raiseyourdongers', 'photoshopbattles', 'PlayItAgainSam', 'PointlessStories', 'GrandTheftAutoV', 'pics', 'HeistTeams'
+PRAW: 'Showerthoughts'
+
+Subreddit: /r/bostonterrier
+Recommendit: 'dogswearinghats', 'tonightsdinner', 'castiron', 'eCards', 'frogdogs'
+PRAW: 'MiniaturePinscher'
+
+Subreddit: /r/security
+Recommendit: 'raspberry_pi', 'robotics', 'TOR', 'math', 'netsec', 'linux_gaming', 'youtube', 'crypto', 'technology', 'HealthyFood', 'windows', 'ios', 'minnesota', 'germany', 'scifi', 'homelab', 'startups', 'hardware', 'networking', 'StockMarket', 'google', 'RetroFuturism', 'books', 'California', 'torrents', 'firefox', 'dogs', 'software', 'Futurology', 'college', 'snowden', 'Piracy', 'nvidia', 'Chromecast', 'psychology', 'Frugal', 'law', 'RenewableEnergy', 'Design', 'kindle', 'opensource', 'computers', 'nasa', 'energy', 'UpliftingNews', 'Ohio', 'evolution', 'solar', 'Veterans', 'kickstarter', 'virtualreality', 'Twitter', 'EverythingScience', 'USNEWS', 'webdev', 'chrome', 'gadgets', 'education', 'business', 'misc', 'Windows10', 'arduino', 'chromeos', 'cordcutters', 'hacking', 'microsoft', 'apple', 'programming', 'ipad', 'debian', 'electricvehicles', 'religion', 'racism', 'Health', 'Louisiana', 'playstation', 'Ubuntu', 'linux', 'Beekeeping', 'architecture', 'retrogaming', 'finance', 'Physics', 'sysadmin', 'javascript', 'tech', 'economy', 'coding', 'Norway', 'Bad_Cop_No_Donut', 'privacy', 'poland', 'Wordpress', 'Thailand', 'advertising', 'sciencefiction', 'mac', 'TinyHouses'
+PRAW: 'Passwords'
+
+Subreddit: /r/gamemusic
+Recommendit: 'Megaman', 'JRPG', 'Kirby', 'FinalFantasy', 'nintendo', 'chiptunes', 'Mario'
+PRAW: 'VGCovers'
+
+Subreddit: /r/pixelart
+Recommendit: 'VaporwaveAesthetics', 'ImaginaryCharacters', 'ImaginaryMonsters', 'gravityfalls', 'combinedgifs', 'gameDevClassifieds', 'FifthWorldPics', 'PropagandaPosters', 'loadingicon', 'oddlysatisfying', 'space', 'ShingekiNoKyojin', 'Fantasy', 'worldbuilding', 'IndieGaming', 'low_poly', 'Heavymind', 'instant_regret', 'MapPorn', 'ImaginaryLandscapes', 'Cyberpunk'
+PRAW: 'gamemaker'
+
+Subreddit: /r/firearms
+Recommendit: 'ar15', 'ak47', 'reloading', 'progun', 'guns', 'MosinNagant', 'CCW', 'Glocks', 'texas', 'gunpolitics', 'Republican', 'Libertarian', 'longrange', 'gundeals', 'GunPorn', 'Gunsforsale'
+PRAW: 'Wellworn'
+
+Subreddit: /r/ucsantabarbara
+Recommendit: 'Frisson', 'Liberal', 'lostgeneration', 'bayarea', 'paydaytheheist', 'manga', 'PanicHistory', 'firefly', 'engineering', 'socialism', 'DnB', 'instant_regret', 'labor', 'electronicmusic', 'AskSF', 'SpecArt', 'SFGiants', 'ShittyEarthPorn', 'investing', 'NoShitSherlock', 'BirdsBeingDicks', 'rickandmorty', 'California', 'RealEstate', 'Barca', 'angelsbaseball', 'oregon'
+PRAW: 'UCI'
+
+Subreddit: /r/miata
+Recommendit: 'Autos', 'carporn', 'Honda', 'Stance', 'S2000', 'battlewagon', 'mazda', 'Drifting', 'UserCars'
+PRAW: 'clarkson'
+
+Subreddit: /r/trueaskreddit
+Recommendit: 'YouShouldKnow'
+PRAW: 'AskAstrologers'
+
+Subreddit: /r/twentyonepilots
+Recommendit: 'EDM'
+PRAW: 'panicatthedisco', 'FallOutBoy', 'Muse'
+
+Subreddit: /r/canadaguns
+Recommendit: 'guns', 'canucks', 'ottawa', 'reloading', 'MosinNagant', 'longrange', 'canada', 'PussyPass', 'tarantulas'
+PRAW: 'canadagunsEE'
+
+Subreddit: /r/poodles
+Recommendit: 'BuyItForLife'
+PRAW: 'MiniaturePinscher', 'WestHighlandTerriers', 'dogs', 'Frenchbulldogs', 'pugs', 'rescuedogs', 'stbernards', 'Boxers'
+
+Subreddit: /r/basset
+Recommendit: 'dogs', 'AmericanHorrorStory'
+PRAW: 'MiniaturePinscher'
+
+Subreddit: /r/worldpolitics
+Recommendit: 'Liberal', 'history', 'TrueReddit', 'Drugs', 'atheism', 'misc', 'snowden', 'Indiana', 'Documentaries', 'cannabis', 'cyberlaws', 'biology', 'climate', 'wikipedia', 'Foodforthought', 'Health', 'entertainment', 'uspolitics', 'RenewableEnergy', 'news', 'EverythingScience', 'Anarchism', 'energy', 'Physics', 'worldnews', 'Anticonsumption', 'racism', 'scifi', 'TwoXChromosomes', 'NewsOfTheStupid', 'restorethefourth', 'Marijuana', 'offbeat', 'nature', 'cogsci', 'China', 'altnewz', 'labor', 'Archaeology', 'women', 'science', 'opensource', 'sociology', 'evolution', 'California', 'books', 'skeptic', 'politics', 'geography', 'Palestine', 'software', 'Anthropology', 'DescentIntoTyranny', 'nottheonion', 'worldevents', 'psychology', 'finance', 'EndlessWar', 'business', 'Conservative', 'Piracy', 'WikiLeaks', 'Freethought', 'democrats', 'crypto', 'florida', 'AmericanPolitics', 'Libertarian', 'Futurology', 'ukpolitics', 'evolutionReddit', 'PoliticalHumor', 'environment', 'literature', 'BasicIncome', 'progressive', 'feminisms', 'Bad_Cop_No_Donut', 'occupywallstreet', 'MensRights', 'humor', 'Norway', 'lectures', 'europe', 'conspiracy', 'religion', 'linguistics', 'Republican', 'arizona', 'AnythingGoesNews', 'education', 'technology', 'socialism', 'germany', 'Economics', '911truth', 'Turkey', 'Washington', 'law', 'comedy', 'ideasfortheadmins', 'NewsOfTheWeird', 'poland', 'canada', 'lostgeneration', 'collapse', 'NorthCarolina', 'Twitter', 'lgbt', 'inthenews', 'economy', 'UpliftingNews', 'privacy', 'robotics', 'TOR'
+PRAW: 'ndp'
+
+Subreddit: /r/crazyideas
+Recommendit: 'Lightbulb', 'MarkMyWords'
+PRAW: 'counting'
+
+Subreddit: /r/pug
+Recommendit: 'puppies', 'pugs', 'awwwtf', 'AnimalsBeingBros'
+PRAW: 'MiniaturePinscher'
+
+Subreddit: /r/240sx
+Recommendit: 'Stance', 'Honda', 'subaru', 'Drifting', 'mazda', 'Nissan', 'carporn', 'hardwareswap', 'Miata', 'Shitty_Car_Mods'
+PRAW: '350z'
+
+Subreddit: /r/norfolk
+Recommendit: 'ColoradoSprings', 'Chattanooga', 'florida', 'southcarolina', 'longisland', 'navy', 'news', 'Washington', 'Indiana', 'RhodeIsland', 'Kentucky', 'Alabama', 'Atlanta', 'desmoines', 'indianapolis', 'nova', 'raleigh', 'Military'
+PRAW: 'Virginia'
+
+Subreddit: /r/dune
+Recommendit: 'scifi', 'AbandonedPorn', 'LV426', 'DungeonsAndDragons', 'startrek'
+PRAW: 'timetravel'
+
+Subreddit: /r/beagle
+Recommendit: 'Dallas', 'dogswearinghats', 'puppies'
+PRAW: 'MiniaturePinscher'
+
+Subreddit: /r/rainmeter
+Recommendit: 'Frisson'
+PRAW: 'desktops', 'WallpaperRequests', 'Trackballs', 'foobar2000'
+
+Subreddit: /r/tuxedocats
+Recommendit: 'Catloaf', 'blackcats', 'CatsInSinks', 'jellybeantoes', 'tuckedinkitties', 'CatsInBusinessAttire', 'catbellies', 'Floof', 'Delightfullychubby'
+PRAW: 'Feels'
+
+Subreddit: /r/timberwolves
+Recommendit: 'MkeBucks', 'minnesotaunited', 'fantasyfootball', 'hockey', 'NYKnicks', 'NBA2k', 'warriors', 'torontoraptors', 'StLouisRams', 'lakers', 'TwinCities', 'minnesotatwins', 'heat', 'nba', 'Minneapolis', 'nfl', 'minnesotavikings', 'wildhockey', 'rockets', 'coys', 'sixers', 'kings', 'minnesota'
+PRAW: 'UtahJazz'
+
+Subreddit: /r/golfgti
+Recommendit: 'Volkswagen'
+PRAW: 'tdi', 'beetle', 'fordranger', 'Hyundai', 'clarkson'
+
+Subreddit: /r/ukpersonalfinance
+Recommendit: 'britishproblems', 'BritishSuccess', 'ukpolitics', 'AskUK', 'london', 'BritishTV', 'unitedkingdom'
+PRAW: 'LegalAdviceUK'
+
+Subreddit: /r/bushcraft
+Recommendit: 'Leathercraft', 'camping', 'castiron', 'Survival', 'simpleliving'
+PRAW: 'Goruck'
+
+Subreddit: /r/mainecoons
+Recommendit: 'Delightfullychubby', 'tuckedinkitties', 'catpictures', 'Floof', 'Blep', 'Catloaf', 'bigboobproblems', 'StuffOnCats', 'catbellies'
+PRAW: 'hitmanimals'
+
+Subreddit: /r/design_critiques
+Recommendit: 'startups', 'web_design', 'graphic_design', 'Design', 'typography'
+PRAW: 'product_design'
+
